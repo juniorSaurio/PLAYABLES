@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				197,
+				111
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Hirvhin dies",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				228,
+				144
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Hirvhin Dead confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				198,
+				115
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Hirvhin Death Loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HirvhinDeath",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hirvhin",
+	"flip_x": false,
+	"healthbar_colors": [
+		97,
+		34,
+		12
+	],
+	"camera_position": [
+		340,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

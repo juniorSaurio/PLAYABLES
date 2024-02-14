@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				160
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "neatsuki idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				178
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "neatsuki left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				216
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "neatsuki right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				268
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "neatsuki up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				154
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "neatsuki down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Neatsuki",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "neatsuki",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		179,
+		251
+	],
+	"camera_position": [
+		0,
+		-250
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1
+}

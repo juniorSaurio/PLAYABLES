@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "valen idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				69
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-103
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-53
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				-31
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "valentino left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/valentino",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "valen",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		145,
+		35
+	],
+	"camera_position": [
+		60,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

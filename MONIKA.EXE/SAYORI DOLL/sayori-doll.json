@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SayoDoll Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SayoDoll Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-210
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SayoDoll Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SayoDoll Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				80
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SayoDoll Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SayoriDoll",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sayo-doll",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		153,
+		202
+	],
+	"camera_position": [
+		-10,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

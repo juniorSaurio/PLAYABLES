@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TOF_GODZ.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DownGodz0000" x="0" y="0" width="924" height="681" frameX="-33" frameY="-78" frameWidth="957" frameHeight="766"/>
+	<SubTexture name="DownGodz0001" x="936" y="0" width="944" height="720" frameX="-13" frameY="-39" frameWidth="957" frameHeight="766"/>
+	<SubTexture name="DownGodz0002" x="1892" y="0" width="763" height="690" frameX="-179" frameY="-72" frameWidth="957" frameHeight="766"/>
+	<SubTexture name="DownGodz0003" x="2667" y="0" width="921" height="699" frameX="-21" frameY="-63" frameWidth="957" frameHeight="766"/>
+	<SubTexture name="DownGodz0004" x="3600" y="0" width="942" height="739" frameX="0" frameY="-23" frameWidth="957" frameHeight="766"/>
+	<SubTexture name="DownGodz0005" x="1892" y="0" width="763" height="690" frameX="-179" frameY="-72" frameWidth="957" frameHeight="766"/>
+	<SubTexture name="DownGodz0006" x="4554" y="0" width="919" height="710" frameX="-25" frameY="-54" frameWidth="957" frameHeight="766"/>
+	<SubTexture name="DownGodz0007" x="5485" y="0" width="940" height="751" frameX="-4" frameY="-13" frameWidth="957" frameHeight="766"/>
+	<SubTexture name="DownGodz0008" x="6437" y="0" width="721" height="716" frameX="-199" frameY="-50" frameWidth="957" frameHeight="766"/>
+	<SubTexture name="DownGodz0009" x="7170" y="0" width="870" height="725" frameX="-50" frameY="-41" frameWidth="957" frameHeight="766"/>
+	<SubTexture name="IdleGodz0000" x="0" y="763" width="948" height="638" frameX="0" frameY="-21" frameWidth="953" frameHeight="659"/>
+	<SubTexture name="IdleGodz0001" x="960" y="763" width="948" height="639" frameX="0" frameY="-20" frameWidth="953" frameHeight="659"/>
+	<SubTexture name="IdleGodz0002" x="1920" y="763" width="943" height="634" frameX="-8" frameY="-25" frameWidth="953" frameHeight="659"/>
+	<SubTexture name="IdleGodz0003" x="2875" y="763" width="943" height="633" frameX="-8" frameY="-26" frameWidth="953" frameHeight="659"/>
+	<SubTexture name="IdleGodz0004" x="3830" y="763" width="931" height="651" frameX="-22" frameY="-7" frameWidth="953" frameHeight="659"/>
+	<SubTexture name="IdleGodz0005" x="4773" y="763" width="930" height="650" frameX="-22" frameY="-8" frameWidth="953" frameHeight="659"/>
+	<SubTexture name="IdleGodz0006" x="5715" y="763" width="928" height="657" frameX="-22" frameY="-1" frameWidth="953" frameHeight="659"/>
+	<SubTexture name="IdleGodz0007" x="6655" y="763" width="928" height="658" frameX="-22" frameY="0" frameWidth="953" frameHeight="659"/>
+	<SubTexture name="IdleGodz0008" x="0" y="1433" width="930" height="657" frameX="-20" frameY="-1" frameWidth="953" frameHeight="659"/>
+	<SubTexture name="IdleGodz0009" x="942" y="1433" width="930" height="657" frameX="-20" frameY="-1" frameWidth="953" frameHeight="659"/>
+	<SubTexture name="IdleGodz0010" x="1884" y="1433" width="930" height="658" frameX="-20" frameY="0" frameWidth="953" frameHeight="659"/>
+	<SubTexture name="IdleGodz0011" x="0" y="1433" width="930" height="657" frameX="-20" frameY="-1" frameWidth="953" frameHeight="659"/>
+	<SubTexture name="IdleGodz0012" x="942" y="1433" width="930" height="657" frameX="-20" frameY="-1" frameWidth="953" frameHeight="659"/>
+	<SubTexture name="IdleGodz0013" x="1884" y="1433" width="930" height="658" frameX="-20" frameY="0" frameWidth="953" frameHeight="659"/>
+	<SubTexture name="LeftGodz0000" x="2826" y="1433" width="689" height="605" frameX="0" frameY="-4" frameWidth="705" frameHeight="613"/>
+	<SubTexture name="LeftGodz0001" x="3527" y="1433" width="689" height="605" frameX="0" frameY="-4" frameWidth="705" frameHeight="613"/>
+	<SubTexture name="LeftGodz0002" x="4228" y="1433" width="689" height="597" frameX="-11" frameY="-14" frameWidth="705" frameHeight="613"/>
+	<SubTexture name="LeftGodz0003" x="4929" y="1433" width="689" height="597" frameX="-11" frameY="-14" frameWidth="705" frameHeight="613"/>
+	<SubTexture name="LeftGodz0004" x="5630" y="1433" width="689" height="597" frameX="-11" frameY="-14" frameWidth="705" frameHeight="613"/>
+	<SubTexture name="LeftGodz0005" x="6331" y="1433" width="689" height="597" frameX="-11" frameY="-14" frameWidth="705" frameHeight="613"/>
+	<SubTexture name="LeftGodz0006" x="7032" y="1433" width="693" height="600" frameX="-6" frameY="-11" frameWidth="705" frameHeight="613"/>
+	<SubTexture name="LeftGodz0007" x="0" y="2103" width="693" height="600" frameX="-6" frameY="-11" frameWidth="705" frameHeight="613"/>
+	<SubTexture name="LeftGodz0008" x="705" y="2103" width="693" height="613" frameX="-12" frameY="0" frameWidth="705" frameHeight="613"/>
+	<SubTexture name="LeftGodz0009" x="1410" y="2103" width="693" height="613" frameX="-12" frameY="0" frameWidth="705" frameHeight="613"/>
+	<SubTexture name="RightGodz0000" x="2115" y="2103" width="808" height="745" frameX="-21" frameY="0" frameWidth="834" frameHeight="746"/>
+	<SubTexture name="RightGodz0001" x="2935" y="2103" width="808" height="745" frameX="-21" frameY="0" frameWidth="834" frameHeight="746"/>
+	<SubTexture name="RightGodz0002" x="3755" y="2103" width="798" height="732" frameX="-36" frameY="-13" frameWidth="834" frameHeight="746"/>
+	<SubTexture name="RightGodz0003" x="4565" y="2103" width="798" height="732" frameX="-36" frameY="-13" frameWidth="834" frameHeight="746"/>
+	<SubTexture name="RightGodz0004" x="5375" y="2103" width="798" height="732" frameX="-36" frameY="-13" frameWidth="834" frameHeight="746"/>
+	<SubTexture name="RightGodz0005" x="6185" y="2103" width="798" height="732" frameX="-36" frameY="-13" frameWidth="834" frameHeight="746"/>
+	<SubTexture name="RightGodz0006" x="6995" y="2103" width="812" height="729" frameX="-19" frameY="-17" frameWidth="834" frameHeight="746"/>
+	<SubTexture name="RightGodz0007" x="0" y="2860" width="812" height="729" frameX="-19" frameY="-17" frameWidth="834" frameHeight="746"/>
+	<SubTexture name="RightGodz0008" x="824" y="2860" width="832" height="725" frameX="0" frameY="-21" frameWidth="834" frameHeight="746"/>
+	<SubTexture name="RightGodz0009" x="1668" y="2860" width="832" height="725" frameX="0" frameY="-21" frameWidth="834" frameHeight="746"/>
+	<SubTexture name="UpGodz0000" x="2512" y="2860" width="834" height="762" frameX="-2" frameY="0" frameWidth="837" frameHeight="762"/>
+	<SubTexture name="UpGodz0001" x="3358" y="2860" width="833" height="761" frameX="-3" frameY="0" frameWidth="837" frameHeight="762"/>
+	<SubTexture name="UpGodz0002" x="4203" y="2860" width="829" height="751" frameX="-8" frameY="-6" frameWidth="837" frameHeight="762"/>
+	<SubTexture name="UpGodz0003" x="5044" y="2860" width="829" height="751" frameX="-8" frameY="-6" frameWidth="837" frameHeight="762"/>
+	<SubTexture name="UpGodz0004" x="5885" y="2860" width="829" height="751" frameX="-8" frameY="-6" frameWidth="837" frameHeight="762"/>
+	<SubTexture name="UpGodz0005" x="6726" y="2860" width="829" height="751" frameX="-8" frameY="-6" frameWidth="837" frameHeight="762"/>
+	<SubTexture name="UpGodz0006" x="0" y="3634" width="835" height="739" frameX="-2" frameY="-17" frameWidth="837" frameHeight="762"/>
+	<SubTexture name="UpGodz0007" x="847" y="3634" width="835" height="738" frameX="-2" frameY="-17" frameWidth="837" frameHeight="762"/>
+	<SubTexture name="UpGodz0008" x="1694" y="3634" width="836" height="725" frameX="-1" frameY="-29" frameWidth="837" frameHeight="762"/>
+	<SubTexture name="UpGodz0009" x="2542" y="3634" width="837" height="725" frameX="0" frameY="-29" frameWidth="837" frameHeight="762"/>
+</TextureAtlas>

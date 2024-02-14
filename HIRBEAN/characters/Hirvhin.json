@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lef",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hirvhin",
+	"position": [
+		130,
+		0
+	],
+	"healthicon": "hirvhinNormal",
+	"flip_x": false,
+	"healthbar_colors": [
+		97,
+		34,
+		12
+	],
+	"camera_position": [
+		-20,
+		-50
+	],
+	"sing_duration": 4.50000000000001,
+	"scale": 1
+}

@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sachiko_assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SachikoDeath0000" x="0" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0001" x="0" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0002" x="618" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0003" x="1236" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0004" x="1236" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0005" x="1236" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0006" x="1236" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0007" x="1236" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0008" x="1236" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0009" x="1236" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0010" x="1236" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0011" x="1236" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0012" x="1236" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0013" x="1236" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0014" x="1236" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0015" x="1236" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0016" x="1854" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0017" x="1854" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0018" x="2472" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0019" x="2472" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0020" x="3090" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0021" x="3708" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0022" x="4326" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0023" x="4944" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0024" x="5562" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0025" x="5562" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0026" x="6180" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0027" x="6180" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0028" x="5562" y="0" width="618" height="625"/>
+	<SubTexture name="SachikoDeath0029" x="5562" y="0" width="618" height="625"/>
+	<SubTexture name="SachDeathCONF0000" x="6798" y="0" width="597" height="617"/>
+	<SubTexture name="SachDeathCONF0001" x="7395" y="0" width="597" height="617"/>
+	<SubTexture name="SachDeathCONF0002" x="0" y="625" width="597" height="617"/>
+	<SubTexture name="SachDeathCONF0003" x="0" y="625" width="597" height="617"/>
+	<SubTexture name="SachDeathCONF0004" x="597" y="625" width="597" height="617"/>
+	<SubTexture name="SachDeathCONF0005" x="597" y="625" width="597" height="617"/>
+	<SubTexture name="SachDeathCONF0006" x="597" y="625" width="597" height="617"/>
+	<SubTexture name="SachDeathCONF0007" x="597" y="625" width="597" height="617"/>
+	<SubTexture name="SachDeathCONF0008" x="597" y="625" width="597" height="617"/>
+	<SubTexture name="SachDeathCONF0009" x="597" y="625" width="597" height="617"/>
+	<SubTexture name="SachDeathCONF0010" x="597" y="625" width="597" height="617"/>
+	<SubTexture name="SachDeathCONF0011" x="597" y="625" width="597" height="617"/>
+	<SubTexture name="SachDeathCONF0012" x="597" y="625" width="597" height="617"/>
+	<SubTexture name="SachDeathCONF0013" x="597" y="625" width="597" height="617"/>
+	<SubTexture name="SachiDeathLOOP0000" x="1194" y="625" width="597" height="617"/>
+	<SubTexture name="SachiDeathLOOP0001" x="1194" y="625" width="597" height="617"/>
+	<SubTexture name="SachiDeathLOOP0002" x="1791" y="625" width="597" height="617"/>
+	<SubTexture name="SachiDeathLOOP0003" x="1791" y="625" width="597" height="617"/>
+	<SubTexture name="SachiDeathLOOP0004" x="1791" y="625" width="597" height="617"/>
+	<SubTexture name="SachiDeathLOOP0005" x="1791" y="625" width="597" height="617"/>
+	<SubTexture name="SachiDeathLOOP0006" x="1791" y="625" width="597" height="617"/>
+	<SubTexture name="SachiDeathLOOP0007" x="1791" y="625" width="597" height="617"/>
+	<SubTexture name="SachiDeathLOOP0008" x="1791" y="625" width="597" height="617"/>
+	<SubTexture name="SachiDeathLOOP0009" x="1791" y="625" width="597" height="617"/>
+	<SubTexture name="SachiDeathLOOP0010" x="1791" y="625" width="597" height="617"/>
+	<SubTexture name="SachiDeathLOOP0011" x="1791" y="625" width="597" height="617"/>
+	<SubTexture name="SachiDeathLOOP0012" x="1791" y="625" width="597" height="617"/>
+	<SubTexture name="SachiDeathLOOP0013" x="1791" y="625" width="597" height="617"/>
+	<SubTexture name="SachikoDown0000" x="2388" y="625" width="504" height="566"/>
+	<SubTexture name="SachikoDown0001" x="2388" y="625" width="504" height="566"/>
+	<SubTexture name="SachikoDown0002" x="2892" y="625" width="504" height="566"/>
+	<SubTexture name="SachikoDown0003" x="2892" y="625" width="504" height="566"/>
+	<SubTexture name="SachikoDown0004" x="3396" y="625" width="504" height="566"/>
+	<SubTexture name="SachikoDown0005" x="3396" y="625" width="504" height="566"/>
+	<SubTexture name="SachikoDown0006" x="3900" y="625" width="504" height="566"/>
+	<SubTexture name="SachikoDown0007" x="3900" y="625" width="504" height="566"/>
+	<SubTexture name="SachikoDown0008" x="4404" y="625" width="504" height="566"/>
+	<SubTexture name="SachikoDown0009" x="4404" y="625" width="504" height="566"/>
+	<SubTexture name="SachikoDown0010" x="4404" y="625" width="504" height="566"/>
+	<SubTexture name="SachikoDown0011" x="4404" y="625" width="504" height="566"/>
+	<SubTexture name="SachikoDown0012" x="4404" y="625" width="504" height="566"/>
+	<SubTexture name="SachikoDown0013" x="4404" y="625" width="504" height="566"/>
+	<SubTexture name="SachDownA0000" x="4908" y="625" width="642" height="645"/>
+	<SubTexture name="SachDownA0001" x="4908" y="625" width="642" height="645"/>
+	<SubTexture name="SachDownA0002" x="5550" y="625" width="642" height="645"/>
+	<SubTexture name="SachDownA0003" x="5550" y="625" width="642" height="645"/>
+	<SubTexture name="SachDownA0004" x="6192" y="625" width="642" height="645"/>
+	<SubTexture name="SachDownA0005" x="6192" y="625" width="642" height="645"/>
+	<SubTexture name="SachDownA0006" x="6834" y="625" width="642" height="645"/>
+	<SubTexture name="SachDownA0007" x="6834" y="625" width="642" height="645"/>
+	<SubTexture name="SachDownA0008" x="7476" y="625" width="642" height="645"/>
+	<SubTexture name="SachDownA0009" x="7476" y="625" width="642" height="645"/>
+	<SubTexture name="SachDownA0010" x="7476" y="625" width="642" height="645"/>
+	<SubTexture name="SachDownA0011" x="7476" y="625" width="642" height="645"/>
+	<SubTexture name="SachDownA0012" x="7476" y="625" width="642" height="645"/>
+	<SubTexture name="SachDownA0013" x="7476" y="625" width="642" height="645"/>
+	<SubTexture name="I can't get this to work lol sorry1 0000" x="0" y="1270" width="642" height="651"/>
+	<SubTexture name="I can't get this to work lol sorry1 0001" x="642" y="1270" width="642" height="651"/>
+	<SubTexture name="I can't get this to work lol sorry1 0002" x="642" y="1270" width="642" height="651"/>
+	<SubTexture name="I can't get this to work lol sorry1 0003" x="1284" y="1270" width="642" height="651"/>
+	<SubTexture name="I can't get this to work lol sorry1 0004" x="1284" y="1270" width="642" height="651"/>
+	<SubTexture name="I can't get this to work lol sorry1 0005" x="1926" y="1270" width="642" height="651"/>
+	<SubTexture name="I can't get this to work lol sorry1 0006" x="1926" y="1270" width="642" height="651"/>
+	<SubTexture name="I can't get this to work lol sorry1 0007" x="1284" y="1270" width="642" height="651"/>
+	<SubTexture name="I can't get this to work lol sorry1 0008" x="1284" y="1270" width="642" height="651"/>
+	<SubTexture name="I can't get this to work lol sorry1 0009" x="1926" y="1270" width="642" height="651"/>
+	<SubTexture name="I can't get this to work lol sorry1 0010" x="1926" y="1270" width="642" height="651"/>
+	<SubTexture name="I can't get this to work lol sorry1 0011" x="1284" y="1270" width="642" height="651"/>
+	<SubTexture name="I can't get this to work lol sorry1 0012" x="1284" y="1270" width="642" height="651"/>
+	<SubTexture name="I can't get this to work lol sorry1 0013" x="1926" y="1270" width="642" height="651"/>
+	<SubTexture name="SachiDownM0000" x="2568" y="1270" width="504" height="571"/>
+	<SubTexture name="SachiDownM0001" x="3072" y="1270" width="504" height="571"/>
+	<SubTexture name="SachiDownM0002" x="3072" y="1270" width="504" height="571"/>
+	<SubTexture name="SachiDownM0003" x="3576" y="1270" width="504" height="571"/>
+	<SubTexture name="SachiDownM0004" x="3576" y="1270" width="504" height="571"/>
+	<SubTexture name="SachiDownM0005" x="3576" y="1270" width="504" height="571"/>
+	<SubTexture name="SachiDownM0006" x="3576" y="1270" width="504" height="571"/>
+	<SubTexture name="SachiDownM0007" x="3576" y="1270" width="504" height="571"/>
+	<SubTexture name="SachiDownM0008" x="3576" y="1270" width="504" height="571"/>
+	<SubTexture name="SachiDownM0009" x="3576" y="1270" width="504" height="571"/>
+	<SubTexture name="SachiDownM0010" x="3576" y="1270" width="504" height="571"/>
+	<SubTexture name="SachiDownM0011" x="3576" y="1270" width="504" height="571"/>
+	<SubTexture name="SachiDownM0012" x="3576" y="1270" width="504" height="571"/>
+	<SubTexture name="SachiDownM0013" x="3576" y="1270" width="504" height="571"/>
+	<SubTexture name="Sachiko idle0000" x="4080" y="1270" width="465" height="590"/>
+	<SubTexture name="Sachiko idle0001" x="4080" y="1270" width="465" height="590"/>
+	<SubTexture name="Sachiko idle0002" x="4545" y="1270" width="465" height="590"/>
+	<SubTexture name="Sachiko idle0003" x="4545" y="1270" width="465" height="590"/>
+	<SubTexture name="Sachiko idle0004" x="5010" y="1270" width="465" height="590"/>
+	<SubTexture name="Sachiko idle0005" x="5010" y="1270" width="465" height="590"/>
+	<SubTexture name="Sachiko idle0006" x="5475" y="1270" width="465" height="590"/>
+	<SubTexture name="Sachiko idle0007" x="5475" y="1270" width="465" height="590"/>
+	<SubTexture name="Sachiko idle0008" x="5940" y="1270" width="465" height="590"/>
+	<SubTexture name="Sachiko idle0009" x="5940" y="1270" width="465" height="590"/>
+	<SubTexture name="Sachiko idle0010" x="6405" y="1270" width="465" height="590"/>
+	<SubTexture name="Sachiko idle0011" x="6405" y="1270" width="465" height="590"/>
+	<SubTexture name="Sachiko idle0012" x="6405" y="1270" width="465" height="590"/>
+	<SubTexture name="Sachiko idle0013" x="6405" y="1270" width="465" height="590"/>
+	<SubTexture name="SachikoLeft0000" x="6870" y="1270" width="492" height="599"/>
+	<SubTexture name="SachikoLeft0001" x="6870" y="1270" width="492" height="599"/>
+	<SubTexture name="SachikoLeft0002" x="7362" y="1270" width="492" height="599"/>
+	<SubTexture name="SachikoLeft0003" x="7362" y="1270" width="492" height="599"/>
+	<SubTexture name="SachikoLeft0004" x="0" y="1921" width="492" height="599"/>
+	<SubTexture name="SachikoLeft0005" x="0" y="1921" width="492" height="599"/>
+	<SubTexture name="SachikoLeft0006" x="492" y="1921" width="492" height="599"/>
+	<SubTexture name="SachikoLeft0007" x="492" y="1921" width="492" height="599"/>
+	<SubTexture name="SachikoLeft0008" x="984" y="1921" width="492" height="599"/>
+	<SubTexture name="SachikoLeft0009" x="984" y="1921" width="492" height="599"/>
+	<SubTexture name="SachikoLeft0010" x="984" y="1921" width="492" height="599"/>
+	<SubTexture name="SachikoLeft0011" x="984" y="1921" width="492" height="599"/>
+	<SubTexture name="SachikoLeft0012" x="984" y="1921" width="492" height="599"/>
+	<SubTexture name="SachikoLeft0013" x="984" y="1921" width="492" height="599"/>
+	<SubTexture name="SachLeftA0000" x="1476" y="1921" width="575" height="607"/>
+	<SubTexture name="SachLeftA0001" x="1476" y="1921" width="575" height="607"/>
+	<SubTexture name="SachLeftA0002" x="2051" y="1921" width="575" height="607"/>
+	<SubTexture name="SachLeftA0003" x="2051" y="1921" width="575" height="607"/>
+	<SubTexture name="SachLeftA0004" x="2626" y="1921" width="575" height="607"/>
+	<SubTexture name="SachLeftA0005" x="2626" y="1921" width="575" height="607"/>
+	<SubTexture name="SachLeftA0006" x="3201" y="1921" width="575" height="607"/>
+	<SubTexture name="SachLeftA0007" x="3201" y="1921" width="575" height="607"/>
+	<SubTexture name="SachLeftA0008" x="3776" y="1921" width="575" height="607"/>
+	<SubTexture name="SachLeftA0009" x="3776" y="1921" width="575" height="607"/>
+	<SubTexture name="SachLeftA0010" x="3776" y="1921" width="575" height="607"/>
+	<SubTexture name="SachLeftA0011" x="3776" y="1921" width="575" height="607"/>
+	<SubTexture name="SachLeftA0012" x="3776" y="1921" width="575" height="607"/>
+	<SubTexture name="SachLeftA0013" x="3776" y="1921" width="575" height="607"/>
+	<SubTexture name="I can't get this to work lol sorry2 0000" x="1476" y="1921" width="575" height="607"/>
+	<SubTexture name="I can't get this to work lol sorry2 0001" x="4351" y="1921" width="575" height="607"/>
+	<SubTexture name="I can't get this to work lol sorry2 0002" x="4351" y="1921" width="575" height="607"/>
+	<SubTexture name="I can't get this to work lol sorry2 0003" x="4926" y="1921" width="575" height="607"/>
+	<SubTexture name="I can't get this to work lol sorry2 0004" x="4926" y="1921" width="575" height="607"/>
+	<SubTexture name="I can't get this to work lol sorry2 0005" x="5501" y="1921" width="575" height="607"/>
+	<SubTexture name="I can't get this to work lol sorry2 0006" x="5501" y="1921" width="575" height="607"/>
+	<SubTexture name="I can't get this to work lol sorry2 0007" x="4926" y="1921" width="575" height="607"/>
+	<SubTexture name="I can't get this to work lol sorry2 0008" x="4926" y="1921" width="575" height="607"/>
+	<SubTexture name="I can't get this to work lol sorry2 0009" x="5501" y="1921" width="575" height="607"/>
+	<SubTexture name="I can't get this to work lol sorry2 0010" x="5501" y="1921" width="575" height="607"/>
+	<SubTexture name="I can't get this to work lol sorry2 0011" x="4926" y="1921" width="575" height="607"/>
+	<SubTexture name="I can't get this to work lol sorry2 0012" x="4926" y="1921" width="575" height="607"/>
+	<SubTexture name="I can't get this to work lol sorry2 0013" x="5501" y="1921" width="575" height="607"/>
+	<SubTexture name="SachiLeftM0000" x="6076" y="1921" width="492" height="604"/>
+	<SubTexture name="SachiLeftM0001" x="6568" y="1921" width="492" height="604"/>
+	<SubTexture name="SachiLeftM0002" x="6568" y="1921" width="492" height="604"/>
+	<SubTexture name="SachiLeftM0003" x="7060" y="1921" width="492" height="604"/>
+	<SubTexture name="SachiLeftM0004" x="7060" y="1921" width="492" height="604"/>
+	<SubTexture name="SachiLeftM0005" x="7060" y="1921" width="492" height="604"/>
+	<SubTexture name="SachiLeftM0006" x="7060" y="1921" width="492" height="604"/>
+	<SubTexture name="SachiLeftM0007" x="7060" y="1921" width="492" height="604"/>
+	<SubTexture name="SachiLeftM0008" x="7060" y="1921" width="492" height="604"/>
+	<SubTexture name="SachiLeftM0009" x="7060" y="1921" width="492" height="604"/>
+	<SubTexture name="SachiLeftM0010" x="7060" y="1921" width="492" height="604"/>
+	<SubTexture name="SachiLeftM0011" x="7060" y="1921" width="492" height="604"/>
+	<SubTexture name="SachiLeftM0012" x="7060" y="1921" width="492" height="604"/>
+	<SubTexture name="SachiLeftM0013" x="7060" y="1921" width="492" height="604"/>
+	<SubTexture name="SachikoRight0000" x="7552" y="1921" width="486" height="609"/>
+	<SubTexture name="SachikoRight0001" x="7552" y="1921" width="486" height="609"/>
+	<SubTexture name="SachikoRight0002" x="0" y="2530" width="486" height="609"/>
+	<SubTexture name="SachikoRight0003" x="0" y="2530" width="486" height="609"/>
+	<SubTexture name="SachikoRight0004" x="486" y="2530" width="486" height="609"/>
+	<SubTexture name="SachikoRight0005" x="486" y="2530" width="486" height="609"/>
+	<SubTexture name="SachikoRight0006" x="972" y="2530" width="486" height="609"/>
+	<SubTexture name="SachikoRight0007" x="972" y="2530" width="486" height="609"/>
+	<SubTexture name="SachikoRight0008" x="1458" y="2530" width="486" height="609"/>
+	<SubTexture name="SachikoRight0009" x="1458" y="2530" width="486" height="609"/>
+	<SubTexture name="SachikoRight0010" x="1458" y="2530" width="486" height="609"/>
+	<SubTexture name="SachikoRight0011" x="1458" y="2530" width="486" height="609"/>
+	<SubTexture name="SachikoRight0012" x="1458" y="2530" width="486" height="609"/>
+	<SubTexture name="SachikoRight0013" x="1458" y="2530" width="486" height="609"/>
+	<SubTexture name="SachRightA0000" x="1944" y="2530" width="507" height="611"/>
+	<SubTexture name="SachRightA0001" x="1944" y="2530" width="507" height="611"/>
+	<SubTexture name="SachRightA0002" x="2451" y="2530" width="507" height="611"/>
+	<SubTexture name="SachRightA0003" x="2451" y="2530" width="507" height="611"/>
+	<SubTexture name="SachRightA0004" x="2958" y="2530" width="507" height="611"/>
+	<SubTexture name="SachRightA0005" x="2958" y="2530" width="507" height="611"/>
+	<SubTexture name="SachRightA0006" x="3465" y="2530" width="507" height="611"/>
+	<SubTexture name="SachRightA0007" x="3465" y="2530" width="507" height="611"/>
+	<SubTexture name="SachRightA0008" x="3972" y="2530" width="507" height="611"/>
+	<SubTexture name="SachRightA0009" x="3972" y="2530" width="507" height="611"/>
+	<SubTexture name="SachRightA0010" x="3972" y="2530" width="507" height="611"/>
+	<SubTexture name="SachRightA0011" x="3972" y="2530" width="507" height="611"/>
+	<SubTexture name="SachRightA0012" x="3972" y="2530" width="507" height="611"/>
+	<SubTexture name="SachRightA0013" x="3972" y="2530" width="507" height="611"/>
+	<SubTexture name="I can't get this to work lol sorry3 0000" x="1944" y="2530" width="507" height="611"/>
+	<SubTexture name="I can't get this to work lol sorry3 0001" x="4479" y="2530" width="507" height="611"/>
+	<SubTexture name="I can't get this to work lol sorry3 0002" x="4479" y="2530" width="507" height="611"/>
+	<SubTexture name="I can't get this to work lol sorry3 0003" x="4986" y="2530" width="507" height="611"/>
+	<SubTexture name="I can't get this to work lol sorry3 0004" x="4986" y="2530" width="507" height="611"/>
+	<SubTexture name="I can't get this to work lol sorry3 0005" x="5493" y="2530" width="507" height="611"/>
+	<SubTexture name="I can't get this to work lol sorry3 0006" x="5493" y="2530" width="507" height="611"/>
+	<SubTexture name="I can't get this to work lol sorry3 0007" x="4986" y="2530" width="507" height="611"/>
+	<SubTexture name="I can't get this to work lol sorry3 0008" x="4986" y="2530" width="507" height="611"/>
+	<SubTexture name="I can't get this to work lol sorry3 0009" x="5493" y="2530" width="507" height="611"/>
+	<SubTexture name="I can't get this to work lol sorry3 0010" x="5493" y="2530" width="507" height="611"/>
+	<SubTexture name="I can't get this to work lol sorry3 0011" x="4986" y="2530" width="507" height="611"/>
+	<SubTexture name="I can't get this to work lol sorry3 0012" x="4986" y="2530" width="507" height="611"/>
+	<SubTexture name="I can't get this to work lol sorry3 0013" x="5493" y="2530" width="507" height="611"/>
+	<SubTexture name="I can't get this to work lol sorry3 0014" x="5493" y="2530" width="507" height="611"/>
+	<SubTexture name="SachiRightM0000" x="6000" y="2530" width="488" height="609"/>
+	<SubTexture name="SachiRightM0001" x="6488" y="2530" width="488" height="609"/>
+	<SubTexture name="SachiRightM0002" x="6488" y="2530" width="488" height="609"/>
+	<SubTexture name="SachiRightM0003" x="6976" y="2530" width="488" height="609"/>
+	<SubTexture name="SachiRightM0004" x="6976" y="2530" width="488" height="609"/>
+	<SubTexture name="SachiRightM0005" x="6976" y="2530" width="488" height="609"/>
+	<SubTexture name="SachiRightM0006" x="6976" y="2530" width="488" height="609"/>
+	<SubTexture name="SachiRightM0007" x="6976" y="2530" width="488" height="609"/>
+	<SubTexture name="SachiRightM0008" x="6976" y="2530" width="488" height="609"/>
+	<SubTexture name="SachiRightM0009" x="6976" y="2530" width="488" height="609"/>
+	<SubTexture name="SachiRightM0010" x="6976" y="2530" width="488" height="609"/>
+	<SubTexture name="SachiRightM0011" x="6976" y="2530" width="488" height="609"/>
+	<SubTexture name="SachiRightM0012" x="6976" y="2530" width="488" height="609"/>
+	<SubTexture name="SachiRightM0013" x="6976" y="2530" width="488" height="609"/>
+	<SubTexture name="SachikoUp0000" x="7464" y="2530" width="437" height="613"/>
+	<SubTexture name="SachikoUp0001" x="7464" y="2530" width="437" height="613"/>
+	<SubTexture name="SachikoUp0002" x="0" y="3143" width="437" height="613"/>
+	<SubTexture name="SachikoUp0003" x="0" y="3143" width="437" height="613"/>
+	<SubTexture name="SachikoUp0004" x="437" y="3143" width="437" height="613"/>
+	<SubTexture name="SachikoUp0005" x="437" y="3143" width="437" height="613"/>
+	<SubTexture name="SachikoUp0006" x="874" y="3143" width="437" height="613"/>
+	<SubTexture name="SachikoUp0007" x="874" y="3143" width="437" height="613"/>
+	<SubTexture name="SachikoUp0008" x="1311" y="3143" width="437" height="613"/>
+	<SubTexture name="SachikoUp0009" x="1311" y="3143" width="437" height="613"/>
+	<SubTexture name="SachikoUp0010" x="1311" y="3143" width="437" height="613"/>
+	<SubTexture name="SachikoUp0011" x="1311" y="3143" width="437" height="613"/>
+	<SubTexture name="SachikoUp0012" x="1311" y="3143" width="437" height="613"/>
+	<SubTexture name="SachikoUp0013" x="1311" y="3143" width="437" height="613"/>
+	<SubTexture name="SachUpA0000" x="1748" y="3143" width="458" height="648"/>
+	<SubTexture name="SachUpA0001" x="1748" y="3143" width="458" height="648"/>
+	<SubTexture name="SachUpA0002" x="2206" y="3143" width="458" height="648"/>
+	<SubTexture name="SachUpA0003" x="2206" y="3143" width="458" height="648"/>
+	<SubTexture name="SachUpA0004" x="2664" y="3143" width="458" height="648"/>
+	<SubTexture name="SachUpA0005" x="2664" y="3143" width="458" height="648"/>
+	<SubTexture name="SachUpA0006" x="3122" y="3143" width="458" height="648"/>
+	<SubTexture name="SachUpA0007" x="3122" y="3143" width="458" height="648"/>
+	<SubTexture name="SachUpA0008" x="3580" y="3143" width="458" height="648"/>
+	<SubTexture name="SachUpA0009" x="3580" y="3143" width="458" height="648"/>
+	<SubTexture name="SachUpA0010" x="3580" y="3143" width="458" height="648"/>
+	<SubTexture name="SachUpA0011" x="3580" y="3143" width="458" height="648"/>
+	<SubTexture name="SachUpA0012" x="3580" y="3143" width="458" height="648"/>
+	<SubTexture name="SachUpA0013" x="3580" y="3143" width="458" height="648"/>
+	<SubTexture name="I can't get this to work lol sorry4 0000" x="4038" y="3143" width="459" height="648"/>
+	<SubTexture name="I can't get this to work lol sorry4 0001" x="4497" y="3143" width="459" height="648"/>
+	<SubTexture name="I can't get this to work lol sorry4 0002" x="4497" y="3143" width="459" height="648"/>
+	<SubTexture name="I can't get this to work lol sorry4 0003" x="4956" y="3143" width="459" height="648"/>
+	<SubTexture name="I can't get this to work lol sorry4 0004" x="4956" y="3143" width="459" height="648"/>
+	<SubTexture name="I can't get this to work lol sorry4 0005" x="5415" y="3143" width="459" height="648"/>
+	<SubTexture name="I can't get this to work lol sorry4 0006" x="5415" y="3143" width="459" height="648"/>
+	<SubTexture name="I can't get this to work lol sorry4 0007" x="4956" y="3143" width="459" height="648"/>
+	<SubTexture name="I can't get this to work lol sorry4 0008" x="4956" y="3143" width="459" height="648"/>
+	<SubTexture name="I can't get this to work lol sorry4 0009" x="5415" y="3143" width="459" height="648"/>
+	<SubTexture name="I can't get this to work lol sorry4 0010" x="5415" y="3143" width="459" height="648"/>
+	<SubTexture name="I can't get this to work lol sorry4 0011" x="4956" y="3143" width="459" height="648"/>
+	<SubTexture name="I can't get this to work lol sorry4 0012" x="4956" y="3143" width="459" height="648"/>
+	<SubTexture name="I can't get this to work lol sorry4 0013" x="5415" y="3143" width="459" height="648"/>
+	<SubTexture name="SachiUpM0000" x="5874" y="3143" width="434" height="609"/>
+	<SubTexture name="SachiUpM0001" x="6308" y="3143" width="434" height="609"/>
+	<SubTexture name="SachiUpM0002" x="6308" y="3143" width="434" height="609"/>
+	<SubTexture name="SachiUpM0003" x="6742" y="3143" width="434" height="609"/>
+	<SubTexture name="SachiUpM0004" x="6742" y="3143" width="434" height="609"/>
+	<SubTexture name="SachiUpM0005" x="6742" y="3143" width="434" height="609"/>
+	<SubTexture name="SachiUpM0006" x="6742" y="3143" width="434" height="609"/>
+	<SubTexture name="SachiUpM0007" x="6742" y="3143" width="434" height="609"/>
+	<SubTexture name="SachiUpM0008" x="6742" y="3143" width="434" height="609"/>
+	<SubTexture name="SachiUpM0009" x="6742" y="3143" width="434" height="609"/>
+	<SubTexture name="SachiUpM0010" x="6742" y="3143" width="434" height="609"/>
+	<SubTexture name="SachiUpM0011" x="6742" y="3143" width="434" height="609"/>
+	<SubTexture name="SachiUpM0012" x="6742" y="3143" width="434" height="609"/>
+	<SubTexture name="SachiUpM0013" x="6742" y="3143" width="434" height="609"/>
+</TextureAtlas>

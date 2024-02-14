@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Natki_assets.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Natki Down Note 0000" x="0" y="0" width="435" height="403"/>
+	<SubTexture name="Natki Down Note 0001" x="435" y="0" width="435" height="403"/>
+	<SubTexture name="Natki Down Note 0002" x="870" y="0" width="435" height="403"/>
+	<SubTexture name="Natki Down Note 0003" x="1305" y="0" width="435" height="403"/>
+	<SubTexture name="Natki Down Note 0004" x="1740" y="0" width="435" height="403"/>
+	<SubTexture name="Natki Down Note 0005" x="2175" y="0" width="435" height="403"/>
+	<SubTexture name="Natki Down Note 0006" x="2610" y="0" width="435" height="403"/>
+	<SubTexture name="Natki Down Note 0007" x="3045" y="0" width="435" height="403"/>
+	<SubTexture name="Natki Down Note 0008" x="3480" y="0" width="435" height="403"/>
+	<SubTexture name="Natki Down Note 0009" x="0" y="403" width="435" height="403"/>
+	<SubTexture name="Natki Down Note 0010" x="435" y="403" width="435" height="403"/>
+	<SubTexture name="Natki Down Note 0011" x="870" y="403" width="435" height="403"/>
+	<SubTexture name="Natki Down Note 0012" x="1305" y="403" width="435" height="403"/>
+	<SubTexture name="Natki Down Note 0013" x="1740" y="403" width="435" height="403"/>
+	<SubTexture name="Natki Down Note 0014" x="2175" y="403" width="435" height="403"/>
+	<SubTexture name="Natki Down Note 0015" x="2610" y="403" width="435" height="403"/>
+	<SubTexture name="Natki Down Note 0016" x="3045" y="403" width="435" height="403"/>
+	<SubTexture name="Natki Down Note 0017" x="3480" y="403" width="435" height="403"/>
+	<SubTexture name="Natki Down Note 0018" x="0" y="806" width="435" height="403"/>
+	<SubTexture name="Natki Idle Dance0000" x="435" y="806" width="432" height="385"/>
+	<SubTexture name="Natki Idle Dance0001" x="867" y="806" width="432" height="385"/>
+	<SubTexture name="Natki Idle Dance0002" x="1299" y="806" width="432" height="385"/>
+	<SubTexture name="Natki Idle Dance0003" x="1731" y="806" width="432" height="385"/>
+	<SubTexture name="Natki Idle Dance0004" x="2163" y="806" width="432" height="385"/>
+	<SubTexture name="Natki Idle Dance0005" x="2595" y="806" width="432" height="385"/>
+	<SubTexture name="Natki Idle Dance0006" x="3027" y="806" width="432" height="385"/>
+	<SubTexture name="Natki Idle Dance0007" x="3459" y="806" width="432" height="385"/>
+	<SubTexture name="Natki Idle Dance0008" x="0" y="1209" width="432" height="385"/>
+	<SubTexture name="Natki Idle Dance0009" x="432" y="1209" width="432" height="385"/>
+	<SubTexture name="Natki Idle Dance0010" x="864" y="1209" width="432" height="385"/>
+	<SubTexture name="Natki Idle Dance0011" x="1296" y="1209" width="432" height="385"/>
+	<SubTexture name="Natki Idle Dance0012" x="1728" y="1209" width="432" height="385"/>
+	<SubTexture name="Natki Idle Dance0013" x="432" y="1209" width="432" height="385"/>
+	<SubTexture name="Natki Left Note0000" x="2160" y="1209" width="462" height="396"/>
+	<SubTexture name="Natki Left Note0001" x="2622" y="1209" width="462" height="396"/>
+	<SubTexture name="Natki Left Note0002" x="3084" y="1209" width="462" height="396"/>
+	<SubTexture name="Natki Left Note0003" x="3546" y="1209" width="462" height="396"/>
+	<SubTexture name="Natki Left Note0004" x="0" y="1605" width="462" height="396"/>
+	<SubTexture name="Natki Left Note0005" x="462" y="1605" width="462" height="396"/>
+	<SubTexture name="Natki Left Note0006" x="924" y="1605" width="462" height="396"/>
+	<SubTexture name="Natki Left Note0007" x="1386" y="1605" width="462" height="396"/>
+	<SubTexture name="Natki Left Note0008" x="1848" y="1605" width="462" height="396"/>
+	<SubTexture name="Natki Left Note0009" x="2310" y="1605" width="462" height="396"/>
+	<SubTexture name="Natki Left Note0010" x="2772" y="1605" width="462" height="396"/>
+	<SubTexture name="Natki Left Note0011" x="3234" y="1605" width="462" height="396"/>
+	<SubTexture name="Natki Left Note0012" x="0" y="2001" width="462" height="396"/>
+	<SubTexture name="Natki Left Note0013" x="2310" y="1605" width="462" height="396"/>
+	<SubTexture name="Natki Left Note0014" x="2772" y="1605" width="462" height="396"/>
+	<SubTexture name="Natki Left Note0015" x="3234" y="1605" width="462" height="396"/>
+	<SubTexture name="Natki Right Note 0000" x="462" y="2001" width="472" height="394"/>
+	<SubTexture name="Natki Right Note 0001" x="934" y="2001" width="472" height="394"/>
+	<SubTexture name="Natki Right Note 0002" x="1406" y="2001" width="472" height="394"/>
+	<SubTexture name="Natki Right Note 0003" x="1878" y="2001" width="472" height="394"/>
+	<SubTexture name="Natki Right Note 0004" x="2350" y="2001" width="472" height="394"/>
+	<SubTexture name="Natki Right Note 0005" x="2822" y="2001" width="472" height="394"/>
+	<SubTexture name="Natki Right Note 0006" x="3294" y="2001" width="472" height="394"/>
+	<SubTexture name="Natki Right Note 0007" x="0" y="2397" width="472" height="394"/>
+	<SubTexture name="Natki Right Note 0008" x="472" y="2397" width="472" height="394"/>
+	<SubTexture name="Natki Right Note 0009" x="944" y="2397" width="472" height="394"/>
+	<SubTexture name="Natki Right Note 0010" x="1416" y="2397" width="472" height="394"/>
+	<SubTexture name="Natki Right Note 0011" x="1888" y="2397" width="472" height="394"/>
+	<SubTexture name="Natki Right Note 0012" x="2360" y="2397" width="472" height="394"/>
+	<SubTexture name="Natki Right Note 0013" x="2832" y="2397" width="472" height="394"/>
+	<SubTexture name="Natki Right Note 0014" x="3304" y="2397" width="472" height="394"/>
+	<SubTexture name="Natki Right Note 0015" x="1888" y="2397" width="472" height="394"/>
+	<SubTexture name="Natki Up Note0000" x="0" y="2791" width="454" height="409"/>
+	<SubTexture name="Natki Up Note0001" x="454" y="2791" width="454" height="409"/>
+	<SubTexture name="Natki Up Note0002" x="908" y="2791" width="454" height="409"/>
+	<SubTexture name="Natki Up Note0003" x="1362" y="2791" width="454" height="409"/>
+	<SubTexture name="Natki Up Note0004" x="1816" y="2791" width="454" height="409"/>
+	<SubTexture name="Natki Up Note0005" x="2270" y="2791" width="454" height="409"/>
+	<SubTexture name="Natki Up Note0006" x="2724" y="2791" width="454" height="409"/>
+	<SubTexture name="Natki Up Note0007" x="3178" y="2791" width="454" height="409"/>
+	<SubTexture name="Natki Up Note0008" x="3632" y="2791" width="454" height="409"/>
+	<SubTexture name="Natki Up Note0009" x="0" y="3200" width="454" height="409"/>
+	<SubTexture name="Natki Up Note0010" x="2724" y="2791" width="454" height="409"/>
+	<SubTexture name="Natki Up Note0011" x="3178" y="2791" width="454" height="409"/>
+	<SubTexture name="Natki Up Note0012" x="3632" y="2791" width="454" height="409"/>
+	<SubTexture name="Natki Up Note0013" x="0" y="3200" width="454" height="409"/>
+	<SubTexture name="Natki Up Note0014" x="2724" y="2791" width="454" height="409"/>
+</TextureAtlas>

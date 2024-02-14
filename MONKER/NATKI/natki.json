@@ -1,0 +1,109 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "Natki Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"playerOffsets": [
+				37,
+				5
+			],
+			"name": "Natki Left Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"playerOffsets": [
+				-2,
+				11
+			],
+			"name": "Natki Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				23
+			],
+			"name": "Natki Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"playerOffsets": [
+				6,
+				13
+			],
+			"name": "Natki Right Note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Natki_assets",
+	"position": [
+		-5,
+		360
+	],
+	"player_camera_position": [
+		150,
+		-50
+	],
+	"spriteType": "SPARROW",
+	"playerposition": [
+		5,
+		360
+	],
+	"healthicon": "natki",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		156,
+		221
+	],
+	"camera_position": [
+		100,
+		-50
+	],
+	"noteSkin": null,
+	"sing_duration": 4,
+	"isPlayerChar": false,
+	"scale": 1
+}

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Zephaniah.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DownMightyPose0000" x="0" y="0" width="1298" height="1138"/>
+	<SubTexture name="DownMightyPose0001" x="1298" y="0" width="1298" height="1138"/>
+	<SubTexture name="DownMightyPose0002" x="2596" y="0" width="1298" height="1138"/>
+	<SubTexture name="DownMightyPose0003" x="3894" y="0" width="1298" height="1138"/>
+	<SubTexture name="DownMightyPose0004" x="5192" y="0" width="1298" height="1138"/>
+	<SubTexture name="DownMightyPose0005" x="2596" y="0" width="1298" height="1138"/>
+	<SubTexture name="LeftNotezephaniah0000" x="6490" y="0" width="1221" height="1158"/>
+	<SubTexture name="LeftNotezephaniah0001" x="0" y="1158" width="1221" height="1158"/>
+	<SubTexture name="LeftNotezephaniah0002" x="1221" y="1158" width="1221" height="1158"/>
+	<SubTexture name="LeftNotezephaniah0003" x="2442" y="1158" width="1221" height="1158"/>
+	<SubTexture name="LeftNotezephaniah0004" x="3663" y="1158" width="1221" height="1158"/>
+	<SubTexture name="LeftNotezephaniah0005" x="1221" y="1158" width="1221" height="1158"/>
+	<SubTexture name="RightNoteZephaniah0000" x="4884" y="1158" width="1107" height="1188"/>
+	<SubTexture name="RightNoteZephaniah0001" x="5991" y="1158" width="1107" height="1188"/>
+	<SubTexture name="RightNoteZephaniah0002" x="0" y="2346" width="1107" height="1188"/>
+	<SubTexture name="RightNoteZephaniah0003" x="1107" y="2346" width="1107" height="1188"/>
+	<SubTexture name="RightNoteZephaniah0004" x="2214" y="2346" width="1107" height="1188"/>
+	<SubTexture name="RightNoteZephaniah0005" x="0" y="2346" width="1107" height="1188"/>
+	<SubTexture name="UpZephaniapose0000" x="3321" y="2346" width="1159" height="1253"/>
+	<SubTexture name="UpZephaniapose0001" x="4480" y="2346" width="1159" height="1253"/>
+	<SubTexture name="UpZephaniapose0002" x="5639" y="2346" width="1159" height="1253"/>
+	<SubTexture name="UpZephaniapose0003" x="6798" y="2346" width="1159" height="1253"/>
+	<SubTexture name="UpZephaniapose0004" x="0" y="3599" width="1159" height="1253"/>
+	<SubTexture name="UpZephaniapose0005" x="5639" y="2346" width="1159" height="1253"/>
+	<SubTexture name="ZephaniahIdle0000" x="1159" y="3599" width="1299" height="1214"/>
+	<SubTexture name="ZephaniahIdle0001" x="2458" y="3599" width="1299" height="1214"/>
+	<SubTexture name="ZephaniahIdle0002" x="3757" y="3599" width="1299" height="1214"/>
+	<SubTexture name="ZephaniahIdle0003" x="5056" y="3599" width="1299" height="1214"/>
+	<SubTexture name="ZephaniahIdle0004" x="6355" y="3599" width="1299" height="1214"/>
+	<SubTexture name="ZephaniahIdle0005" x="0" y="4852" width="1299" height="1214"/>
+	<SubTexture name="ZephaniahIdle0006" x="1299" y="4852" width="1299" height="1214"/>
+	<SubTexture name="ZephaniahIdle0007" x="2598" y="4852" width="1299" height="1214"/>
+	<SubTexture name="ZephaniahIdle0008" x="3897" y="4852" width="1299" height="1214"/>
+	<SubTexture name="ZephaniahIdle0009" x="5196" y="4852" width="1299" height="1214"/>
+	<SubTexture name="ZephaniahIdle0010" x="6495" y="4852" width="1299" height="1214"/>
+	<SubTexture name="ZephaniahIdle0011" x="0" y="6066" width="1299" height="1214"/>
+	<SubTexture name="ZephaniahIdle0012" x="5196" y="4852" width="1299" height="1214"/>
+	<SubTexture name="ZephaniahIdle0013" x="6495" y="4852" width="1299" height="1214"/>
+</TextureAtlas>

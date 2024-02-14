@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				-2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Camellia_Idle"
+		},
+		{
+			"offsets": [
+				-5,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Camellia_Down"
+		},
+		{
+			"offsets": [
+				-1,
+				56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				15
+			],
+			"name": "Camellia_Up"
+		},
+		{
+			"offsets": [
+				-4,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				15
+			],
+			"name": "Camellia_Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Camellia_Left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				15
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/camellia_halloween",
+	"position": [
+		-250,
+		-40
+	],
+	"healthicon": "camelliaHalloween",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		3,
+		37
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 1,
+	"scale": 0.8
+}

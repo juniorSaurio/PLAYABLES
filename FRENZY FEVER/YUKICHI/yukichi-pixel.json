@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "YukichiIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				-64
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "YukichiLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-142,
+				-64
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "YukichiDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				-60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "YukichiUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-125,
+				-64
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "YukichiRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/yukichiPixel",
+	"position": [
+		170,
+		280
+	],
+	"healthicon": "yukichi-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		151,
+		240
+	],
+	"camera_position": [
+		-300,
+		-305
+	],
+	"sing_duration": 6.1,
+	"scale": 4.80000000000002
+}

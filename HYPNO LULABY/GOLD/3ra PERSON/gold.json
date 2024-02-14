@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				161,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gold left"
+		},
+		{
+			"offsets": [
+				-200,
+				-330
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gold down"
+		},
+		{
+			"offsets": [
+				-46,
+				310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gold up"
+		},
+		{
+			"offsets": [
+				-250,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gold right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gold idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lostsilver",
+	"position": [
+		-220,
+		-180
+	],
+	"healthicon": "gold",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		90,
+		240
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "InfernoM idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "InfernoM right"
+		},
+		{
+			"offsets": [
+				247,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "InfernoM down"
+		},
+		{
+			"offsets": [
+				336,
+				126
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "InfernoM left"
+		},
+		{
+			"offsets": [
+				273,
+				146
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "InfernoM up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/InfernoM",
+	"position": [
+		110,
+		-180
+	],
+	"healthicon": "Inferno",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		1,
+		50
+	],
+	"camera_position": [
+		-200,
+		-190
+	],
+	"sing_duration": 6.1,
+	"scale": 4
+}

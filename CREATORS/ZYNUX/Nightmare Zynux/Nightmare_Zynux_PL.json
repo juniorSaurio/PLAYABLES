@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Zynux Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Zynux Idle"
+		},
+		{
+			"offsets": [
+				64,
+				114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Zynux Up"
+		},
+		{
+			"offsets": [
+				167,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Zynux Down"
+		},
+		{
+			"offsets": [
+				204,
+				28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Zynux Left"
+		},
+		{
+			"offsets": [
+				122,
+				29
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Zynux Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nightmare_Zynux",
+	"position": [
+		0,
+		-140
+	],
+	"healthicon": "icon-zynux-nightmare",
+	"flip_x": false,
+	"healthbar_colors": [
+		152,
+		255,
+		255
+	],
+	"camera_position": [
+		280,
+		50
+	],
+	"sing_duration": 3.50000000000001,
+	"scale": 1
+}

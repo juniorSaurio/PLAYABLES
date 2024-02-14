@@ -1,0 +1,73 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "m robo idle"
+		},
+		{
+			"offsets": [
+				-29,
+				-119
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "m robo down"
+		},
+		{
+			"offsets": [
+				-42,
+				-37
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "m robo right"
+		},
+		{
+			"offsets": [
+				-86,
+				35
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "m robo up"
+		},
+		{
+			"offsets": [
+				-6,
+				-6
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "m robo left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/m_robo",
+	"position": [
+		-170,
+		0
+	],
+	"healthicon": "robo-cesar",
+	"flip_x": false,
+	"healthbar_colors": [
+		146,
+		54,
+		180
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				73,
+				-305
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				115,
+				-167
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				64,
+				-472
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-220
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-259
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Characters/killian",
+	"position": [
+		0,
+		-280
+	],
+	"healthicon": "icon_killian",
+	"flip_x": false,
+	"healthbar_colors": [
+		121,
+		3,
+		0
+	],
+	"camera_position": [
+		-160,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BlantadMad.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down crazy0000" x="43" y="43" width="369" height="703" pivotX="-5.9" pivotY="-27.2" frameX="0" frameY="-8" frameWidth="369" frameHeight="711"/>
+	<SubTexture name="down crazy0001" x="43" y="43" width="369" height="703" frameX="0" frameY="-8" frameWidth="369" frameHeight="711"/>
+	<SubTexture name="down crazy0002" x="454" y="43" width="355" height="711" frameX="-7" frameY="0" frameWidth="369" frameHeight="711"/>
+	<SubTexture name="down crazy0003" x="454" y="43" width="355" height="711" frameX="-7" frameY="0" frameWidth="369" frameHeight="711"/>
+	<SubTexture name="down crazy0004" x="454" y="43" width="355" height="711" frameX="-7" frameY="0" frameWidth="369" frameHeight="711"/>
+	<SubTexture name="down crazy0005" x="454" y="43" width="355" height="711" frameX="-7" frameY="0" frameWidth="369" frameHeight="711"/>
+	<SubTexture name="down crazy0006" x="454" y="43" width="355" height="711" frameX="-7" frameY="0" frameWidth="369" frameHeight="711"/>
+	<SubTexture name="down crazy0007" x="454" y="43" width="355" height="711" frameX="-7" frameY="0" frameWidth="369" frameHeight="711"/>
+	<SubTexture name="down crazy0008" x="454" y="43" width="355" height="711" frameX="-7" frameY="0" frameWidth="369" frameHeight="711"/>
+	<SubTexture name="down crazy0009" x="454" y="43" width="355" height="711" frameX="-7" frameY="0" frameWidth="369" frameHeight="711"/>
+	<SubTexture name="idle0000" x="851" y="43" width="417" height="734" pivotX="-40.1" pivotY="-15.1"/>
+	<SubTexture name="left crazy0000" x="1310" y="43" width="377" height="750" pivotX="3.6" pivotY="-11.4"/>
+	<SubTexture name="left crazy0001" x="1310" y="43" width="377" height="750"/>
+	<SubTexture name="left crazy0002" x="1729" y="43" width="368" height="750" frameX="-9" frameY="0" frameWidth="377" frameHeight="750"/>
+	<SubTexture name="left crazy0003" x="1729" y="43" width="368" height="750" frameX="-9" frameY="0" frameWidth="377" frameHeight="750"/>
+	<SubTexture name="left crazy0004" x="1729" y="43" width="368" height="750" frameX="-9" frameY="0" frameWidth="377" frameHeight="750"/>
+	<SubTexture name="left crazy0005" x="1729" y="43" width="368" height="750" frameX="-9" frameY="0" frameWidth="377" frameHeight="750"/>
+	<SubTexture name="left crazy0006" x="1729" y="43" width="368" height="750" frameX="-9" frameY="0" frameWidth="377" frameHeight="750"/>
+	<SubTexture name="left crazy0007" x="1729" y="43" width="368" height="750" frameX="-9" frameY="0" frameWidth="377" frameHeight="750"/>
+	<SubTexture name="left crazy0008" x="1729" y="43" width="368" height="750" frameX="-9" frameY="0" frameWidth="377" frameHeight="750"/>
+	<SubTexture name="left crazy0009" x="1729" y="43" width="368" height="750" frameX="-9" frameY="0" frameWidth="377" frameHeight="750"/>
+	<SubTexture name="right crazy0000" x="2139" y="43" width="452" height="737" pivotX="-15.05" pivotY="-28.6"/>
+	<SubTexture name="right crazy0001" x="2139" y="43" width="452" height="737"/>
+	<SubTexture name="right crazy0002" x="2633" y="43" width="441" height="737" frameX="0" frameY="0" frameWidth="452" frameHeight="737"/>
+	<SubTexture name="right crazy0003" x="2633" y="43" width="441" height="737" frameX="0" frameY="0" frameWidth="452" frameHeight="737"/>
+	<SubTexture name="right crazy0004" x="2633" y="43" width="441" height="737" frameX="0" frameY="0" frameWidth="452" frameHeight="737"/>
+	<SubTexture name="right crazy0005" x="2633" y="43" width="441" height="737" frameX="0" frameY="0" frameWidth="452" frameHeight="737"/>
+	<SubTexture name="right crazy0006" x="2633" y="43" width="441" height="737" frameX="0" frameY="0" frameWidth="452" frameHeight="737"/>
+	<SubTexture name="right crazy0007" x="2633" y="43" width="441" height="737" frameX="0" frameY="0" frameWidth="452" frameHeight="737"/>
+	<SubTexture name="right crazy0008" x="2633" y="43" width="441" height="737" frameX="0" frameY="0" frameWidth="452" frameHeight="737"/>
+	<SubTexture name="right crazy0009" x="2633" y="43" width="441" height="737" frameX="0" frameY="0" frameWidth="452" frameHeight="737"/>
+	<SubTexture name="up crazy0000" x="3116" y="43" width="308" height="761" pivotX="-11.05" pivotY="-10.45" frameX="-5" frameY="0" frameWidth="319" frameHeight="761"/>
+	<SubTexture name="up crazy0001" x="3116" y="43" width="308" height="761" frameX="-5" frameY="0" frameWidth="319" frameHeight="761"/>
+	<SubTexture name="up crazy0002" x="3466" y="43" width="319" height="755" frameX="0" frameY="-6" frameWidth="319" frameHeight="761"/>
+	<SubTexture name="up crazy0003" x="3466" y="43" width="319" height="755" frameX="0" frameY="-6" frameWidth="319" frameHeight="761"/>
+	<SubTexture name="up crazy0004" x="3466" y="43" width="319" height="755" frameX="0" frameY="-6" frameWidth="319" frameHeight="761"/>
+	<SubTexture name="up crazy0005" x="3466" y="43" width="319" height="755" frameX="0" frameY="-6" frameWidth="319" frameHeight="761"/>
+	<SubTexture name="up crazy0006" x="3466" y="43" width="319" height="755" frameX="0" frameY="-6" frameWidth="319" frameHeight="761"/>
+	<SubTexture name="up crazy0007" x="3466" y="43" width="319" height="755" frameX="0" frameY="-6" frameWidth="319" frameHeight="761"/>
+	<SubTexture name="up crazy0008" x="3466" y="43" width="319" height="755" frameX="0" frameY="-6" frameWidth="319" frameHeight="761"/>
+</TextureAtlas>

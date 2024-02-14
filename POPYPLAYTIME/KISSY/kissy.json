@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				88
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "KissyUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				56
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "KissyRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				153,
+				55
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "KissyLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				72
+			],
+			"anim": "singDDWN",
+			"fps": 24,
+			"name": "KissyDown",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				58,
+				62
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "KissyIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				59
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "KissyDown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kissy",
+	"position": [
+		10,
+		-140
+	],
+	"healthicon": "kissy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		255
+	],
+	"camera_position": [
+		-160,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

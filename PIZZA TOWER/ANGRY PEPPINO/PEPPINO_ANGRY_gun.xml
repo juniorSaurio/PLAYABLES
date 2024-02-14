@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PEPPINO_ANGRY_gun.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PeppAngryDOWN0000" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="PeppAngryDOWN0001" x="200" y="0" width="200" height="200"/>
+	<SubTexture name="PeppAngryDOWN0002" x="400" y="0" width="200" height="200"/>
+	<SubTexture name="PeppAngryDOWN0003" x="400" y="0" width="200" height="200"/>
+	<SubTexture name="PeppAngryDOWN0004" x="400" y="0" width="200" height="200"/>
+	<SubTexture name="PeppAngryIDLE0000" x="600" y="0" width="200" height="200"/>
+	<SubTexture name="PeppAngryIDLE0001" x="800" y="0" width="200" height="200"/>
+	<SubTexture name="PeppAngryIDLE0002" x="800" y="0" width="200" height="200"/>
+	<SubTexture name="PeppAngryIDLE0003" x="800" y="0" width="200" height="200"/>
+	<SubTexture name="PeppAngryIDLE0004" x="800" y="0" width="200" height="200"/>
+	<SubTexture name="PeppAngryLEFT0000" x="0" y="200" width="200" height="200"/>
+	<SubTexture name="PeppAngryLEFT0001" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="PeppAngryLEFT0002" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="PeppAngryLEFT0003" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="PeppAngryLEFT0004" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="PeppAngryRIGHT0000" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="PeppAngryRIGHT0001" x="600" y="200" width="200" height="200"/>
+	<SubTexture name="PeppAngryRIGHT0002" x="600" y="200" width="200" height="200"/>
+	<SubTexture name="PeppAngryRIGHT0003" x="600" y="200" width="200" height="200"/>
+	<SubTexture name="PeppAngryRIGHT0004" x="600" y="200" width="200" height="200"/>
+	<SubTexture name="PeppAngrySHOOT0000" x="800" y="200" width="200" height="200"/>
+	<SubTexture name="PeppAngrySHOOT0001" x="0" y="400" width="200" height="200"/>
+	<SubTexture name="PeppAngrySHOOT0002" x="200" y="400" width="200" height="200"/>
+	<SubTexture name="PeppAngrySHOOT0003" x="400" y="400" width="200" height="200"/>
+	<SubTexture name="PeppAngrySHOOT0004" x="600" y="400" width="200" height="200"/>
+	<SubTexture name="PeppAngryUP0000" x="800" y="400" width="200" height="200"/>
+	<SubTexture name="PeppAngryUP0001" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="PeppAngryUP0002" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="PeppAngryUP0003" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="PeppAngryUP0004" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="PeppAngryWINDUP0000" x="200" y="600" width="200" height="200"/>
+	<SubTexture name="PeppAngryWINDUP0001" x="400" y="600" width="200" height="200"/>
+	<SubTexture name="PeppAngryWINDUP0002" x="600" y="600" width="200" height="200"/>
+	<SubTexture name="PeppAngryWINDUP0003" x="600" y="600" width="200" height="200"/>
+	<SubTexture name="PeppAngryWINDUP0004" x="600" y="600" width="200" height="200"/>
+</TextureAtlas>

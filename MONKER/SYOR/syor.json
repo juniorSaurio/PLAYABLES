@@ -1,0 +1,109 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"playerOffsets": [
+				80,
+				3
+			],
+			"name": "Syor Left Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"playerOffsets": [
+				9,
+				5
+			],
+			"name": "Syor Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				43
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"playerOffsets": [
+				-43,
+				43
+			],
+			"name": "Syor Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"playerOffsets": [
+				6,
+				15
+			],
+			"name": "Syor Right Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "Syor Idle Dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Syor_assets",
+	"position": [
+		-5,
+		370
+	],
+	"player_camera_position": [
+		120,
+		-50
+	],
+	"spriteType": "SPARROW",
+	"playerposition": [
+		60,
+		370
+	],
+	"healthicon": "syor",
+	"flip_x": false,
+	"healthbar_colors": [
+		178,
+		228,
+		244
+	],
+	"camera_position": [
+		110,
+		-50
+	],
+	"noteSkin": null,
+	"sing_duration": 4,
+	"isPlayerChar": false,
+	"scale": 1
+}

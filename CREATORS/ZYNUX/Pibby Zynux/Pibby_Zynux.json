@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "zynux idle"
+		},
+		{
+			"offsets": [
+				97,
+				115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "zynux up"
+		},
+		{
+			"offsets": [
+				39,
+				-93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ZYNUX DOWN"
+		},
+		{
+			"offsets": [
+				4,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "zynux right"
+		},
+		{
+			"offsets": [
+				182,
+				58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ZYNUX LEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pibby_Zynux",
+	"position": [
+		-20,
+		120
+	],
+	"healthicon": "icon-pibby-zynux",
+	"flip_x": false,
+	"healthbar_colors": [
+		97,
+		178,
+		255
+	],
+	"camera_position": [
+		0,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

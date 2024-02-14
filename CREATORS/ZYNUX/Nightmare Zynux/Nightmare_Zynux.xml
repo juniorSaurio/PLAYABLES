@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Zynux Nightmare.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Zynux Down0000" x="10" y="10" width="550" height="685" frameX="0" frameY="-163" frameWidth="608" frameHeight="848"/>
+	<SubTexture name="Zynux Down0001" x="570" y="10" width="538" height="776" frameX="-8" frameY="-69" frameWidth="608" frameHeight="848"/>
+	<SubTexture name="Zynux Down0002" x="1118" y="10" width="524" height="779" frameX="-1" frameY="-31" frameWidth="608" frameHeight="848"/>
+	<SubTexture name="Zynux Down0003" x="1652" y="10" width="537" height="798" frameX="-2" frameY="0" frameWidth="608" frameHeight="848"/>
+	<SubTexture name="Zynux Down0004" x="2199" y="10" width="514" height="782" frameX="-14" frameY="-15" frameWidth="608" frameHeight="848"/>
+	<SubTexture name="Zynux Down0005" x="2199" y="10" width="514" height="782" frameX="-14" frameY="-15" frameWidth="608" frameHeight="848"/>
+	<SubTexture name="Zynux Down0006" x="2723" y="10" width="492" height="753" frameX="-14" frameY="-44" frameWidth="608" frameHeight="848"/>
+	<SubTexture name="Zynux Down0007" x="3225" y="10" width="512" height="757" frameX="-9" frameY="-40" frameWidth="608" frameHeight="848"/>
+	<SubTexture name="Zynux Idle0000" x="3747" y="10" width="525" height="862" frameX="-37" frameY="-7" frameWidth="594" frameHeight="870"/>
+	<SubTexture name="Zynux Idle0001" x="4282" y="10" width="560" height="856" frameX="-2" frameY="-13" frameWidth="594" frameHeight="870"/>
+	<SubTexture name="Zynux Idle0002" x="4852" y="10" width="559" height="857" frameX="-2" frameY="-13" frameWidth="594" frameHeight="870"/>
+	<SubTexture name="Zynux Idle0003" x="5421" y="10" width="561" height="864" frameX="0" frameY="-6" frameWidth="594" frameHeight="870"/>
+	<SubTexture name="Zynux Idle0004" x="5992" y="10" width="549" height="853" frameX="-11" frameY="-16" frameWidth="594" frameHeight="870"/>
+	<SubTexture name="Zynux Idle0005" x="6551" y="10" width="549" height="853" frameX="-11" frameY="-16" frameWidth="594" frameHeight="870"/>
+	<SubTexture name="Zynux Idle0006" x="7110" y="10" width="483" height="857" frameX="-77" frameY="-12" frameWidth="594" frameHeight="870"/>
+	<SubTexture name="Zynux Idle0007" x="7603" y="10" width="494" height="865" frameX="-66" frameY="-4" frameWidth="594" frameHeight="870"/>
+	<SubTexture name="Zynux Idle0008" x="10" y="885" width="484" height="869" frameX="-76" frameY="0" frameWidth="594" frameHeight="870"/>
+	<SubTexture name="Zynux Idle0009" x="504" y="885" width="466" height="792" frameX="-94" frameY="-77" frameWidth="594" frameHeight="870"/>
+	<SubTexture name="Zynux Idle0010" x="980" y="885" width="468" height="839" frameX="-92" frameY="-30" frameWidth="594" frameHeight="870"/>
+	<SubTexture name="Zynux Idle0011" x="1458" y="885" width="489" height="856" frameX="-71" frameY="-13" frameWidth="594" frameHeight="870"/>
+	<SubTexture name="Zynux Idle0012" x="1957" y="885" width="510" height="820" frameX="-61" frameY="-49" frameWidth="594" frameHeight="870"/>
+	<SubTexture name="Zynux Idle0013" x="2477" y="885" width="496" height="837" frameX="-77" frameY="-32" frameWidth="594" frameHeight="870"/>
+	<SubTexture name="Zynux Left0000" x="2983" y="885" width="912" height="885" frameX="-28" frameY="-19" frameWidth="940" frameHeight="904"/>
+	<SubTexture name="Zynux Left0001" x="3905" y="885" width="726" height="875" frameX="0" frameY="-29" frameWidth="940" frameHeight="904"/>
+	<SubTexture name="Zynux Left0002" x="4641" y="885" width="642" height="890" frameX="-78" frameY="-14" frameWidth="940" frameHeight="904"/>
+	<SubTexture name="Zynux Left0003" x="5293" y="885" width="628" height="904" frameX="-100" frameY="0" frameWidth="940" frameHeight="904"/>
+	<SubTexture name="Zynux Left0004" x="5931" y="885" width="601" height="870" frameX="-106" frameY="-29" frameWidth="940" frameHeight="904"/>
+	<SubTexture name="Zynux Left0005" x="6542" y="885" width="601" height="870" frameX="-106" frameY="-29" frameWidth="940" frameHeight="904"/>
+	<SubTexture name="Zynux Left0006" x="7153" y="885" width="550" height="872" frameX="-157" frameY="-27" frameWidth="940" frameHeight="904"/>
+	<SubTexture name="Zynux Left0007" x="10" y="1799" width="562" height="879" frameX="-145" frameY="-20" frameWidth="940" frameHeight="904"/>
+	<SubTexture name="Zynux Right0000" x="582" y="1799" width="735" height="891" frameX="0" frameY="-5" frameWidth="735" frameHeight="896"/>
+	<SubTexture name="Zynux Right0001" x="1327" y="1799" width="537" height="888" frameX="-157" frameY="-8" frameWidth="735" frameHeight="896"/>
+	<SubTexture name="Zynux Right0002" x="1874" y="1799" width="517" height="888" frameX="-148" frameY="-8" frameWidth="735" frameHeight="896"/>
+	<SubTexture name="Zynux Right0003" x="2401" y="1799" width="517" height="896" frameX="-137" frameY="0" frameWidth="735" frameHeight="896"/>
+	<SubTexture name="Zynux Right0004" x="2928" y="1799" width="523" height="861" frameX="-116" frameY="-30" frameWidth="735" frameHeight="896"/>
+	<SubTexture name="Zynux Right0005" x="3461" y="1799" width="498" height="861" frameX="-141" frameY="-30" frameWidth="735" frameHeight="896"/>
+	<SubTexture name="Zynux Right0006" x="3969" y="1799" width="478" height="863" frameX="-158" frameY="-28" frameWidth="735" frameHeight="896"/>
+	<SubTexture name="Zynux Right0007" x="4457" y="1799" width="473" height="870" frameX="-158" frameY="-21" frameWidth="735" frameHeight="896"/>
+	<SubTexture name="Zynux Up0000" x="4940" y="1799" width="646" height="1022" frameX="-38" frameY="-10" frameWidth="684" frameHeight="1032"/>
+	<SubTexture name="Zynux Up0001" x="5596" y="1799" width="658" height="998" frameX="-26" frameY="0" frameWidth="684" frameHeight="1032"/>
+	<SubTexture name="Zynux Up0002" x="6264" y="1799" width="684" height="908" frameX="0" frameY="-87" frameWidth="684" frameHeight="1032"/>
+	<SubTexture name="Zynux Up0003" x="6958" y="1799" width="680" height="917" frameX="-4" frameY="-86" frameWidth="684" frameHeight="1032"/>
+	<SubTexture name="Zynux Up0004" x="10" y="2831" width="666" height="892" frameX="-13" frameY="-89" frameWidth="684" frameHeight="1032"/>
+	<SubTexture name="Zynux Up0005" x="10" y="2831" width="666" height="892" frameX="-13" frameY="-89" frameWidth="684" frameHeight="1032"/>
+	<SubTexture name="Zynux Up0006" x="686" y="2831" width="596" height="897" frameX="-83" frameY="-84" frameWidth="684" frameHeight="1032"/>
+	<SubTexture name="Zynux Up0007" x="1292" y="2831" width="605" height="906" frameX="-74" frameY="-75" frameWidth="684" frameHeight="1032"/>
+</TextureAtlas>

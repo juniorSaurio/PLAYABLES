@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Scarlet.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Scar Idle0000" x="0" y="0" width="496" height="577"/>
+	<SubTexture name="Scar Idle0001" x="496" y="0" width="496" height="577"/>
+	<SubTexture name="Scar Idle0002" x="992" y="0" width="496" height="577"/>
+	<SubTexture name="Scar Idle0003" x="1488" y="0" width="496" height="577"/>
+	<SubTexture name="Scar Idle0004" x="1984" y="0" width="496" height="577"/>
+	<SubTexture name="Scar Idle0005" x="2480" y="0" width="496" height="577"/>
+	<SubTexture name="Scar Idle0006" x="2976" y="0" width="496" height="577"/>
+	<SubTexture name="Scar Idle0007" x="2976" y="0" width="496" height="577"/>
+	<SubTexture name="Scar Idle0008" x="3472" y="0" width="496" height="577"/>
+	<SubTexture name="Scar Idle0009" x="3472" y="0" width="496" height="577"/>
+	<SubTexture name="Scar Idle0010" x="3472" y="0" width="496" height="577"/>
+	<SubTexture name="Scar Idle0011" x="3472" y="0" width="496" height="577"/>
+	<SubTexture name="Scar Idle0012" x="3472" y="0" width="496" height="577"/>
+	<SubTexture name="Scar Laugh 0000" x="3968" y="0" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0001" x="4467" y="0" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0002" x="4966" y="0" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0003" x="5465" y="0" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0004" x="5964" y="0" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0005" x="6463" y="0" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0006" x="6962" y="0" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0007" x="7461" y="0" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0008" x="0" y="605" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0009" x="0" y="605" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0010" x="499" y="605" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0011" x="499" y="605" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0012" x="499" y="605" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0013" x="499" y="605" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0014" x="499" y="605" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0015" x="499" y="605" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0016" x="998" y="605" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0017" x="1497" y="605" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0018" x="1996" y="605" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0019" x="1996" y="605" width="499" height="605"/>
+	<SubTexture name="Scar Laugh 0020" x="2495" y="605" width="499" height="605"/>
+	<SubTexture name="Scar down0000" x="2994" y="605" width="454" height="478"/>
+	<SubTexture name="Scar down0001" x="3448" y="605" width="454" height="478"/>
+	<SubTexture name="Scar down0002" x="3902" y="605" width="454" height="478"/>
+	<SubTexture name="Scar down0003" x="4356" y="605" width="454" height="478"/>
+	<SubTexture name="Scar down0004" x="4810" y="605" width="454" height="478"/>
+	<SubTexture name="Scar down0005" x="5264" y="605" width="454" height="478"/>
+	<SubTexture name="Scar down0006" x="5264" y="605" width="454" height="478"/>
+	<SubTexture name="Scar down0007" x="5718" y="605" width="454" height="478"/>
+	<SubTexture name="Scar down0008" x="5718" y="605" width="454" height="478"/>
+	<SubTexture name="Scar down0009" x="5718" y="605" width="454" height="478"/>
+	<SubTexture name="Scar hey0000" x="6172" y="605" width="499" height="578"/>
+	<SubTexture name="Scar hey0001" x="6671" y="605" width="499" height="578"/>
+	<SubTexture name="Scar hey0002" x="7170" y="605" width="499" height="578"/>
+	<SubTexture name="Scar hey0003" x="7170" y="605" width="499" height="578"/>
+	<SubTexture name="Scar hey0004" x="7170" y="605" width="499" height="578"/>
+	<SubTexture name="Scar hey0005" x="7170" y="605" width="499" height="578"/>
+	<SubTexture name="Scar hey0006" x="7170" y="605" width="499" height="578"/>
+	<SubTexture name="Scar hey0007" x="7170" y="605" width="499" height="578"/>
+	<SubTexture name="Scar hey0008" x="7170" y="605" width="499" height="578"/>
+	<SubTexture name="Scar hey0009" x="7170" y="605" width="499" height="578"/>
+	<SubTexture name="Scar hey0010" x="7170" y="605" width="499" height="578"/>
+	<SubTexture name="Scar hey0011" x="7170" y="605" width="499" height="578"/>
+	<SubTexture name="Scar hey0012" x="7170" y="605" width="499" height="578"/>
+	<SubTexture name="Scar hey0013" x="7170" y="605" width="499" height="578"/>
+	<SubTexture name="Scar hey0014" x="7170" y="605" width="499" height="578"/>
+	<SubTexture name="Scar left0000" x="0" y="1210" width="574" height="539"/>
+	<SubTexture name="Scar left0001" x="574" y="1210" width="574" height="539"/>
+	<SubTexture name="Scar left0002" x="1148" y="1210" width="574" height="539"/>
+	<SubTexture name="Scar left0003" x="1722" y="1210" width="574" height="539"/>
+	<SubTexture name="Scar left0004" x="1722" y="1210" width="574" height="539"/>
+	<SubTexture name="Scar left0005" x="2296" y="1210" width="574" height="539"/>
+	<SubTexture name="Scar left0006" x="2296" y="1210" width="574" height="539"/>
+	<SubTexture name="Scar left0007" x="2296" y="1210" width="574" height="539"/>
+	<SubTexture name="Scar left0008" x="2296" y="1210" width="574" height="539"/>
+	<SubTexture name="Scar left0009" x="2296" y="1210" width="574" height="539"/>
+	<SubTexture name="Scar right0000" x="2870" y="1210" width="532" height="483"/>
+	<SubTexture name="Scar right0001" x="3402" y="1210" width="532" height="483"/>
+	<SubTexture name="Scar right0002" x="3934" y="1210" width="532" height="483"/>
+	<SubTexture name="Scar right0003" x="3934" y="1210" width="532" height="483"/>
+	<SubTexture name="Scar right0004" x="4466" y="1210" width="532" height="483"/>
+	<SubTexture name="Scar right0005" x="4466" y="1210" width="532" height="483"/>
+	<SubTexture name="Scar right0006" x="4466" y="1210" width="532" height="483"/>
+	<SubTexture name="Scar right0007" x="4466" y="1210" width="532" height="483"/>
+	<SubTexture name="Scar right0008" x="4466" y="1210" width="532" height="483"/>
+	<SubTexture name="Scar right0009" x="4466" y="1210" width="532" height="483"/>
+	<SubTexture name="Scar transform0000" x="4998" y="1210" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0001" x="6092" y="1210" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0002" x="0" y="2357" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0003" x="1094" y="2357" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0004" x="2188" y="2357" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0005" x="3282" y="2357" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0006" x="4376" y="2357" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0007" x="5470" y="2357" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0008" x="6564" y="2357" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0009" x="0" y="3504" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0010" x="0" y="3504" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0011" x="1094" y="3504" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0012" x="1094" y="3504" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0013" x="2188" y="3504" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0014" x="2188" y="3504" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0015" x="2188" y="3504" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0016" x="2188" y="3504" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0017" x="2188" y="3504" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0018" x="2188" y="3504" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0019" x="2188" y="3504" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0020" x="2188" y="3504" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0021" x="3282" y="3504" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0022" x="4376" y="3504" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0023" x="5470" y="3504" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0024" x="6564" y="3504" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0025" x="0" y="4651" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0026" x="1094" y="4651" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0027" x="2188" y="4651" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0028" x="3282" y="4651" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0029" x="4376" y="4651" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0030" x="5470" y="4651" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0031" x="6564" y="4651" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0032" x="0" y="5798" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0033" x="1094" y="5798" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0034" x="2188" y="5798" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0035" x="3282" y="5798" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0036" x="4376" y="5798" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0037" x="5470" y="5798" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0038" x="6564" y="5798" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0039" x="0" y="6945" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0040" x="1094" y="6945" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0041" x="2188" y="6945" width="1094" height="1147"/>
+	<SubTexture name="Scar transform0042" x="2188" y="6945" width="1094" height="1147"/>
+	<SubTexture name="Scar up0000" x="3282" y="6945" width="405" height="646"/>
+	<SubTexture name="Scar up0001" x="3687" y="6945" width="405" height="646"/>
+	<SubTexture name="Scar up0002" x="4092" y="6945" width="405" height="646"/>
+	<SubTexture name="Scar up0003" x="4092" y="6945" width="405" height="646"/>
+	<SubTexture name="Scar up0004" x="4497" y="6945" width="405" height="646"/>
+	<SubTexture name="Scar up0005" x="4497" y="6945" width="405" height="646"/>
+	<SubTexture name="Scar up0006" x="4497" y="6945" width="405" height="646"/>
+	<SubTexture name="Scar up0007" x="4497" y="6945" width="405" height="646"/>
+	<SubTexture name="Scar up0008" x="4497" y="6945" width="405" height="646"/>
+	<SubTexture name="Scar up0009" x="4497" y="6945" width="405" height="646"/>
+</TextureAtlas>

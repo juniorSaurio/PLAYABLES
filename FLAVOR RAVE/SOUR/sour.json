@@ -1,0 +1,169 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sour Idle"
+		},
+		{
+			"offsets": [
+				-11,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sour Left0"
+		},
+		{
+			"offsets": [
+				-4,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sour Down0"
+		},
+		{
+			"offsets": [
+				-11,
+				102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sour Up0"
+		},
+		{
+			"offsets": [
+				-14,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sour Right0"
+		},
+		{
+			"offsets": [
+				-6,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Sour Left MISS"
+		},
+		{
+			"offsets": [
+				-3,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Sour Down MISS"
+		},
+		{
+			"offsets": [
+				-5,
+				102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Sour Up MISS"
+		},
+		{
+			"offsets": [
+				-13,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Sour Right MISS"
+		},
+		{
+			"offsets": [
+				-27,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Sour Left Guitar"
+		},
+		{
+			"offsets": [
+				-4,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Sour Down Guitar"
+		},
+		{
+			"offsets": [
+				-12,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Sour Up Guitar"
+		},
+		{
+			"offsets": [
+				-12,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Sour Right Guitar"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sour",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "sour",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		235,
+		169
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6,
+	"scale": 1,
+	"note": "note_sour",
+	"noteSplash": "splash_sour",
+	"ratings_folder": "sour"
+}

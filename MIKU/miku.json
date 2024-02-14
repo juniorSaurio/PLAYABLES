@@ -1,0 +1,126 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "miku hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Miku idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-67,
+				3
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Miku Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				18,
+				4
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Miku Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-28,
+				46
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Miku Sing Note UP"
+		},
+		{
+			"offsets": [
+				34,
+				-6
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Miku Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ev_miku_assets",
+	"position": [
+		880,
+		-20
+	],
+	"healthicon": "miku",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		247,
+		233
+	],
+	"camera_position": [
+		500,
+		-110
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

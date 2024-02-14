@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Rocco.png"><SubTexture name="Rosy idle0000" x="1832" y="0" width="476" height="746" frameX="-162" frameY="-29" frameWidth="800" frameHeight="800" />
+<SubTexture name="Rosy idle0001" x="0" y="829" width="476" height="751" frameX="-161" frameY="-24" frameWidth="800" frameHeight="800" />
+<SubTexture name="Rosy idle0002" x="476" y="829" width="476" height="751" frameX="-161" frameY="-24" frameWidth="800" frameHeight="800" />
+<SubTexture name="Rosy idle0003" x="952" y="829" width="476" height="750" frameX="-161" frameY="-25" frameWidth="800" frameHeight="800" />
+<SubTexture name="Rosy left0000" x="814" y="2304" width="678" height="534" frameX="-52" frameY="-136" frameWidth="800" frameHeight="800" />
+<SubTexture name="Rosy left0001" x="2031" y="1580" width="669" height="538" frameX="-61" frameY="-132" frameWidth="800" frameHeight="800" />
+<SubTexture name="Rosy left0002" x="2752" y="698" width="662" height="540" frameX="-69" frameY="-130" frameWidth="800" frameHeight="800" />
+<SubTexture name="Rosy left0003" x="2752" y="1238" width="662" height="539" frameX="-69" frameY="-131" frameWidth="800" frameHeight="800" />
+<SubTexture name="Rosy down0000" x="0" y="1580" width="453" height="724" frameX="-177" frameY="-43" frameWidth="800" frameHeight="800" />
+<SubTexture name="Rosy down0001" x="2308" y="0" width="444" height="731" frameX="-177" frameY="-36" frameWidth="800" frameHeight="800" />
+<SubTexture name="Rosy down0002" x="1832" y="746" width="443" height="734" frameX="-177" frameY="-32" frameWidth="800" frameHeight="800" />
+<SubTexture name="Rosy up0000" x="0" y="0" width="605" height="829" frameX="-147" frameY="-27" frameWidth="900" frameHeight="900" />
+<SubTexture name="Rosy up0001" x="605" y="0" width="610" height="820" frameX="-145" frameY="-37" frameWidth="900" frameHeight="900" />
+<SubTexture name="Rosy up0002" x="1215" y="0" width="617" height="816" frameX="-141" frameY="-42" frameWidth="900" frameHeight="900" />
+<SubTexture name="Rosy right0000" x="0" y="2304" width="814" height="694" frameX="-62" frameY="-106" frameWidth="900" frameHeight="900" />
+<SubTexture name="Rosy right0001" x="2752" y="0" width="798" height="698" frameX="-62" frameY="-102" frameWidth="900" frameHeight="900" />
+<SubTexture name="Rosy right0002" x="453" y="1580" width="786" height="704" frameX="-61" frameY="-96" frameWidth="900" frameHeight="900" />
+<SubTexture name="Rosy right0003" x="1239" y="1580" width="792" height="699" frameX="-61" frameY="-101" frameWidth="900" frameHeight="900" />
+<SubTexture name="Rosy A0000" x="2752" y="1777" width="225" height="236" frameX="-13" frameY="-20" frameWidth="274" frameHeight="256" />
+<SubTexture name="Rosy A0001" x="2977" y="1777" width="223" height="236" frameX="0" frameY="-2" frameWidth="274" frameHeight="256" />
+<SubTexture name="Rosy A0002" x="2752" y="2013" width="225" height="232" frameX="-43" frameY="0" frameWidth="274" frameHeight="256" />
+<SubTexture name="Rosy A0003" x="3200" y="1777" width="225" height="236" frameX="-8" frameY="-20" frameWidth="274" frameHeight="256" />
+</TextureAtlas>

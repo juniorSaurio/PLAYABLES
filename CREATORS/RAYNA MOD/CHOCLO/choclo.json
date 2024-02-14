@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				48,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ChocloLeft"
+		},
+		{
+			"offsets": [
+				-66,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ChocloRight"
+		},
+		{
+			"offsets": [
+				-22,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ChocloDown"
+		},
+		{
+			"offsets": [
+				26,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ChocloUp"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ChocloIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ChocloAssets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "choclo",
+	"flip_x": false,
+	"healthbar_colors": [
+		152,
+		41,
+		42
+	],
+	"camera_position": [
+		180,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

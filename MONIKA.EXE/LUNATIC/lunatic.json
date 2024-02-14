@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				102,
+				32
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LunAnim_Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-130
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "LunAnim_Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				40
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "LunAnim_Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "LunAnim_Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "LunAnim_Idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "angry",
+			"indices": [],
+			"name": "SMonika angry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lunatic",
+	"position": [
+		0,
+		-200
+	],
+	"healthicon": "lunatic",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		189,
+		58
+	],
+	"camera_position": [
+		270,
+		410
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

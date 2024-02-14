@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				-35
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sayo Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sayo Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				18
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sayo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-41
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sayo Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				13,
+				14,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "sayo Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sayori-exe",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "sayori-exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		44,
+		102,
+		129
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

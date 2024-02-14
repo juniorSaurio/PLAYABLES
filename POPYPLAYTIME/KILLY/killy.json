@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				220
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "killyidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				224,
+				221
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "killyup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-180
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "killydown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				157
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "killyleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				196
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "killyright",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/killy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "killy",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		-220,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

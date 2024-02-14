@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-176,
+				-112
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-141,
+				-43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-119,
+				-99
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-177,
+				-59
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "leftt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Denki",
+	"position": [
+		-100,
+		90
+	],
+	"healthicon": "Den",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		140,
+		255
+	],
+	"camera_position": [
+		-30,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

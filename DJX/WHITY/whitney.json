@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "WHITNEY IDLE",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "WHITNEY RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				-118
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "WHITNEY DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				51
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "WHITNEY UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				41
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "WHITNEY LEFT",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/djxwhity",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "wit",
+	"flip_x": false,
+	"healthbar_colors": [
+		71,
+		60,
+		60
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

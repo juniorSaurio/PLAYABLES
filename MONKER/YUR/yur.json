@@ -1,0 +1,109 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Yur Idle Dance",
+			"playerOffsets": [
+				0,
+				0
+			]
+		},
+		{
+			"offsets": [
+				6,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Yur Left Note",
+			"playerOffsets": [
+				-50,
+				2
+			]
+		},
+		{
+			"offsets": [
+				11,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Yur Down Note",
+			"playerOffsets": [
+				-29,
+				-1
+			]
+		},
+		{
+			"offsets": [
+				-7,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Yur Up Note",
+			"playerOffsets": [
+				-49,
+				12
+			]
+		},
+		{
+			"offsets": [
+				9,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Yur Right Note",
+			"playerOffsets": [
+				-63,
+				4
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yur_assets",
+	"position": [
+		15,
+		365
+	],
+	"player_camera_position": [
+		90,
+		-50
+	],
+	"spriteType": "SPARROW",
+	"playerposition": [
+		-30,
+		365
+	],
+	"healthicon": "yur",
+	"flip_x": false,
+	"healthbar_colors": [
+		206,
+		149,
+		233
+	],
+	"camera_position": [
+		50,
+		-50
+	],
+	"noteSkin": null,
+	"sing_duration": 4,
+	"isPlayerChar": false,
+	"scale": 1
+}

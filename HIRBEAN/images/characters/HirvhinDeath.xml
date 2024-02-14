@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HirvhinDeath.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hirvhin Dead confirm0000" x="3" y="3" width="482" height="806"/>
+	<SubTexture name="Hirvhin Dead confirm0001" x="488" y="3" width="482" height="806"/>
+	<SubTexture name="Hirvhin Dead confirm0002" x="973" y="3" width="482" height="806"/>
+	<SubTexture name="Hirvhin Dead confirm0003" x="1458" y="3" width="482" height="806"/>
+	<SubTexture name="Hirvhin Dead confirm0004" x="1943" y="3" width="482" height="806"/>
+	<SubTexture name="Hirvhin Dead confirm0005" x="2428" y="3" width="482" height="806"/>
+	<SubTexture name="Hirvhin Dead confirm0006" x="2913" y="3" width="482" height="806"/>
+	<SubTexture name="Hirvhin Dead confirm0007" x="3398" y="3" width="482" height="806"/>
+	<SubTexture name="Hirvhin Dead confirm0008" x="3" y="812" width="482" height="806"/>
+	<SubTexture name="Hirvhin Dead confirm0009" x="488" y="812" width="482" height="806"/>
+	<SubTexture name="Hirvhin Dead confirm0010" x="973" y="812" width="482" height="806"/>
+	<SubTexture name="Hirvhin Dead confirm0011" x="1458" y="812" width="482" height="806"/>
+	<SubTexture name="Hirvhin Dead confirm0012" x="1943" y="812" width="482" height="806"/>
+	<SubTexture name="Hirvhin Dead confirm0013" x="2428" y="812" width="482" height="806"/>
+	<SubTexture name="Hirvhin Dead confirm0014" x="2913" y="812" width="482" height="806"/>
+	<SubTexture name="Hirvhin Dead confirm0015" x="3398" y="812" width="482" height="806"/>
+	<SubTexture name="Hirvhin Death Loop0000" x="3" y="1621" width="371" height="761"/>
+	<SubTexture name="Hirvhin Death Loop0001" x="377" y="1621" width="371" height="761"/>
+	<SubTexture name="Hirvhin Death Loop0002" x="751" y="1621" width="371" height="761"/>
+	<SubTexture name="Hirvhin Death Loop0003" x="1125" y="1621" width="371" height="761"/>
+	<SubTexture name="Hirvhin Death Loop0004" x="1499" y="1621" width="371" height="761"/>
+	<SubTexture name="Hirvhin Death Loop0005" x="1873" y="1621" width="371" height="761"/>
+	<SubTexture name="Hirvhin Death Loop0006" x="2247" y="1621" width="371" height="761"/>
+	<SubTexture name="Hirvhin Death Loop0007" x="2621" y="1621" width="371" height="761"/>
+	<SubTexture name="Hirvhin Death Loop0008" x="2995" y="1621" width="371" height="761"/>
+	<SubTexture name="Hirvhin Death Loop0009" x="3369" y="1621" width="371" height="761"/>
+	<SubTexture name="Hirvhin Death Loop0010" x="3" y="2385" width="371" height="761"/>
+	<SubTexture name="Hirvhin Death Loop0011" x="377" y="2385" width="371" height="761"/>
+	<SubTexture name="Hirvhin Death Loop0012" x="751" y="2385" width="371" height="761"/>
+	<SubTexture name="Hirvhin dies0000" x="1125" y="2385" width="361" height="755"/>
+	<SubTexture name="Hirvhin dies0001" x="1489" y="2385" width="361" height="755"/>
+	<SubTexture name="Hirvhin dies0002" x="1853" y="2385" width="361" height="755"/>
+	<SubTexture name="Hirvhin dies0003" x="2217" y="2385" width="361" height="755"/>
+	<SubTexture name="Hirvhin dies0004" x="2581" y="2385" width="361" height="755"/>
+	<SubTexture name="Hirvhin dies0005" x="2945" y="2385" width="361" height="755"/>
+	<SubTexture name="Hirvhin dies0006" x="3309" y="2385" width="361" height="755"/>
+	<SubTexture name="Hirvhin dies0007" x="3673" y="2385" width="361" height="755"/>
+</TextureAtlas>

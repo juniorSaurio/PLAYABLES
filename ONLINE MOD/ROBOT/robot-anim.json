@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				830
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "enter",
+			"loop": false,
+			"name": "fuckedfinalbossENTER!"
+		},
+		{
+			"offsets": [
+				230,
+				200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hit",
+			"loop": false,
+			"name": "robotHIT!"
+		},
+		{
+			"offsets": [
+				890,
+				310
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "death",
+			"loop": false,
+			"name": "fuckedfinalbossDEATH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Robot_anim",
+	"position": [
+		-150,
+		-40
+	],
+	"healthicon": "boss",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-940,
+		-350
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

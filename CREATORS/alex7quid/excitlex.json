@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "altlex idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "alt izq",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-141
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "alt down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				37
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "altlex up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "alt der",
+			"indices": []
+		},
+		{
+			"offsets": [
+				150,
+				210
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "Hey!",
+			"loop": false,
+			"name": "taunt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/excitlex",
+	"position": [
+		40,
+		90
+	],
+	"healthicon": "icon-alex",
+	"flip_x": false,
+	"healthbar_colors": [
+		79,
+		69,
+		132
+	],
+	"camera_position": [
+		70,
+		5
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				252,
+				164
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "Monikap2 Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				153,
+				21
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "Monikap2 Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				356,
+				26
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "Monikap2 Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				229,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Monikap2 Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				180,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Monikap2 idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/monika.exe2",
+	"position": [
+		220,
+		70
+	],
+	"healthicon": "icon-asmo2",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		126,
+		30
+	],
+	"camera_position": [
+		-260,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

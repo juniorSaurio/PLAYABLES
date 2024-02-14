@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MajinSayori.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MajSay Down0000" x="10" y="10" width="1153" height="960" frameX="0" frameY="0" frameWidth="1154" frameHeight="961"/>
+	<SubTexture name="MajSay Down0001" x="10" y="10" width="1153" height="960" frameX="-1" frameY="-1" frameWidth="1154" frameHeight="961"/>
+	<SubTexture name="MajSay Down0002" x="1173" y="10" width="1153" height="960" frameX="-1" frameY="-1" frameWidth="1154" frameHeight="961"/>
+	<SubTexture name="MajSay Down0003" x="1173" y="10" width="1153" height="960" frameX="-1" frameY="-1" frameWidth="1154" frameHeight="961"/>
+	<SubTexture name="MajSay Down0004" x="2336" y="10" width="1153" height="960" frameX="-1" frameY="-1" frameWidth="1154" frameHeight="961"/>
+	<SubTexture name="MajSay Idle0000" x="3499" y="10" width="1153" height="960"/>
+	<SubTexture name="MajSay Idle0001" x="3499" y="10" width="1153" height="960"/>
+	<SubTexture name="MajSay Idle0002" x="4662" y="10" width="1153" height="960"/>
+	<SubTexture name="MajSay Idle0003" x="4662" y="10" width="1153" height="960"/>
+	<SubTexture name="MajSay Idle0004" x="5825" y="10" width="1153" height="960"/>
+	<SubTexture name="MajSay Idle0005" x="6988" y="10" width="1153" height="960"/>
+	<SubTexture name="MajSay Idle0006" x="6988" y="10" width="1153" height="960"/>
+	<SubTexture name="MajSay Idle0007" x="10" y="980" width="1153" height="960"/>
+	<SubTexture name="MajSay Idle0008" x="10" y="980" width="1153" height="960"/>
+	<SubTexture name="MajSay Idle0009" x="1173" y="980" width="1153" height="960"/>
+	<SubTexture name="MajSay Idle0010" x="3499" y="10" width="1153" height="960"/>
+	<SubTexture name="MajSay Left0000" x="2336" y="980" width="1153" height="960"/>
+	<SubTexture name="MajSay Left0001" x="2336" y="980" width="1153" height="960"/>
+	<SubTexture name="MajSay Left0002" x="3499" y="980" width="1153" height="960"/>
+	<SubTexture name="MajSay Left0003" x="3499" y="980" width="1153" height="960"/>
+	<SubTexture name="MajSay Left0004" x="3499" y="980" width="1153" height="960"/>
+	<SubTexture name="MajSay Left0005" x="4662" y="980" width="1153" height="960"/>
+	<SubTexture name="MajSay Right0000" x="5825" y="980" width="1153" height="960" frameX="0" frameY="0" frameWidth="1154" frameHeight="961"/>
+	<SubTexture name="MajSay Right0001" x="5825" y="980" width="1153" height="960" frameX="-1" frameY="-1" frameWidth="1154" frameHeight="961"/>
+	<SubTexture name="MajSay Right0002" x="6988" y="980" width="1153" height="960" frameX="-1" frameY="-1" frameWidth="1154" frameHeight="961"/>
+	<SubTexture name="MajSay Right0003" x="6988" y="980" width="1153" height="960" frameX="-1" frameY="-1" frameWidth="1154" frameHeight="961"/>
+	<SubTexture name="MajSay Right0004" x="10" y="1950" width="1153" height="960" frameX="-1" frameY="-1" frameWidth="1154" frameHeight="961"/>
+	<SubTexture name="MajSay Up0000" x="1173" y="1950" width="1153" height="960" frameX="0" frameY="0" frameWidth="1154" frameHeight="961"/>
+	<SubTexture name="MajSay Up0001" x="1173" y="1950" width="1153" height="960" frameX="-1" frameY="-1" frameWidth="1154" frameHeight="961"/>
+	<SubTexture name="MajSay Up0002" x="2336" y="1950" width="1153" height="960" frameX="-1" frameY="-1" frameWidth="1154" frameHeight="961"/>
+	<SubTexture name="MajSay Up0003" x="2336" y="1950" width="1153" height="960" frameX="-1" frameY="-1" frameWidth="1154" frameHeight="961"/>
+	<SubTexture name="MajSay Up0004" x="3499" y="1950" width="1153" height="960" frameX="-1" frameY="-1" frameWidth="1154" frameHeight="961"/>
+</TextureAtlas>

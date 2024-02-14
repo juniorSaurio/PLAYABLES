@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				271,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "lady y left"
+		},
+		{
+			"offsets": [
+				108,
+				-243
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "lady y down"
+		},
+		{
+			"offsets": [
+				31,
+				161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "lady y up"
+		},
+		{
+			"offsets": [
+				36,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "lady y right"
+		},
+		{
+			"offsets": [
+				0,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "lady y idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LadyY",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "lady-y",
+	"flip_x": false,
+	"healthbar_colors": [
+		77,
+		61,
+		100
+	],
+	"camera_position": [
+		20,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

@@ -1,0 +1,125 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "EddSideIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "EddSideLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-59
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "EddSideDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				41
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "EddSideUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "EddSideRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				11,
+				12,
+				13,
+				14,
+				11,
+				12,
+				13,
+				14,
+				11,
+				12,
+				13,
+				14,
+				11,
+				12,
+				13,
+				14,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "what",
+			"loop": false,
+			"name": "EddTurnAround"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EddSide",
+	"position": [
+		-50,
+		-15
+	],
+	"healthicon": "eduardo",
+	"flip_x": false,
+	"healthbar_colors": [
+		17,
+		113,
+		43
+	],
+	"camera_position": [
+		100,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

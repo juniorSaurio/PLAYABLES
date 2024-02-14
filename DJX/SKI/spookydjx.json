@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				130,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "spooky left"
+		},
+		{
+			"offsets": [
+				103,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spookys right"
+		},
+		{
+			"offsets": [
+				100,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spooky down"
+		},
+		{
+			"offsets": [
+				170,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Spooky up pose"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				100,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "skidpump idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SKI",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "spooky",
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		153,
+		191
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

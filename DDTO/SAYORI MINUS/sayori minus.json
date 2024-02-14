@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Minus Idle"
+		},
+		{
+			"offsets": [
+				80,
+				64
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Minus Up"
+		},
+		{
+			"offsets": [
+				-31,
+				-39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Minus Left"
+		},
+		{
+			"offsets": [
+				-67,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Minus Down"
+		},
+		{
+			"offsets": [
+				30,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Minus Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Doki_Minus_Sayo_Assets",
+	"position": [
+		20,
+		260
+	],
+	"healthicon": "sayori",
+	"flip_x": false,
+	"healthbar_colors": [
+		149,
+		224,
+		250
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

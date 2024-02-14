@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Robot_Anim.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fuckedfinalbossDEATH0000" x="0" y="0" width="1600" height="740" frameX="-763" frameY="-335" frameWidth="2949" frameHeight="1563"/>
+	<SubTexture name="fuckedfinalbossDEATH0001" x="1600" y="0" width="1597" height="751" frameX="-765" frameY="-327" frameWidth="2949" frameHeight="1563"/>
+	<SubTexture name="fuckedfinalbossDEATH0002" x="3197" y="0" width="1611" height="735" frameX="-757" frameY="-344" frameWidth="2949" frameHeight="1563"/>
+	<SubTexture name="fuckedfinalbossDEATH0003" x="4808" y="0" width="1598" height="792" frameX="-767" frameY="-305" frameWidth="2949" frameHeight="1563"/>
+	<SubTexture name="fuckedfinalbossDEATH0004" x="4808" y="0" width="1598" height="792" frameX="-767" frameY="-305" frameWidth="2949" frameHeight="1563"/>
+	<SubTexture name="fuckedfinalbossDEATH0005" x="6406" y="0" width="1641" height="752" frameX="-759" frameY="-299" frameWidth="2949" frameHeight="1563"/>
+	<SubTexture name="fuckedfinalbossDEATH0006" x="6406" y="0" width="1641" height="752" frameX="-759" frameY="-299" frameWidth="2949" frameHeight="1563"/>
+	<SubTexture name="fuckedfinalbossDEATH0007" x="0" y="792" width="2317" height="1392" frameX="-416" frameY="0" frameWidth="2949" frameHeight="1563"/>
+	<SubTexture name="fuckedfinalbossDEATH0008" x="2317" y="792" width="2812" height="1358" frameX="-69" frameY="-190" frameWidth="2949" frameHeight="1563"/>
+	<SubTexture name="fuckedfinalbossDEATH0009" x="2317" y="792" width="2812" height="1358" frameX="-69" frameY="-190" frameWidth="2949" frameHeight="1563"/>
+	<SubTexture name="fuckedfinalbossDEATH0010" x="5129" y="792" width="2949" height="1415" frameX="0" frameY="-148" frameWidth="2949" frameHeight="1563"/>
+	<SubTexture name="fuckedfinalbossDEATH0011" x="5129" y="792" width="2949" height="1415" frameX="0" frameY="-148" frameWidth="2949" frameHeight="1563"/>
+	<SubTexture name="fuckedfinalbossDEATH0012" x="0" y="2207" width="2459" height="1038" frameX="-301" frameY="-125" frameWidth="2949" frameHeight="1563"/>
+	<SubTexture name="fuckedfinalbossDEATH0013" x="0" y="2207" width="2459" height="1038" frameX="-301" frameY="-125" frameWidth="2949" frameHeight="1563"/>
+	<SubTexture name="fuckedfinalbossDEATH0014" x="2459" y="2207" width="2394" height="1060" frameX="-329" frameY="-114" frameWidth="2949" frameHeight="1563"/>
+	<SubTexture name="fuckedfinalbossENTER!0000" x="4853" y="2207" width="1333" height="1061" frameX="-20" frameY="0" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0001" x="6186" y="2207" width="1334" height="1060" frameX="-20" frameY="-1" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0002" x="0" y="3268" width="1209" height="1187" frameX="-83" frameY="-459" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0003" x="1209" y="3268" width="1209" height="1187" frameX="-83" frameY="-459" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0004" x="2418" y="3268" width="1159" height="760" frameX="-115" frameY="-926" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0005" x="3577" y="3268" width="1159" height="759" frameX="-115" frameY="-926" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0006" x="4736" y="3268" width="1259" height="745" frameX="-49" frameY="-897" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0007" x="5995" y="3268" width="1258" height="745" frameX="-50" frameY="-897" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0008" x="0" y="4455" width="1318" height="770" frameX="-22" frameY="-867" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0009" x="1318" y="4455" width="1318" height="770" frameX="-22" frameY="-867" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0010" x="2636" y="4455" width="1332" height="795" frameX="-14" frameY="-843" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0011" x="3968" y="4455" width="1332" height="795" frameX="-14" frameY="-843" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0012" x="5300" y="4455" width="1341" height="799" frameX="-5" frameY="-839" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0013" x="6641" y="4455" width="1341" height="799" frameX="-5" frameY="-839" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0014" x="0" y="5254" width="1350" height="802" frameX="0" frameY="-836" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0015" x="1350" y="5254" width="1349" height="802" frameX="-1" frameY="-836" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0016" x="0" y="5254" width="1350" height="802" frameX="0" frameY="-836" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0017" x="1350" y="5254" width="1349" height="802" frameX="-1" frameY="-836" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0018" x="0" y="5254" width="1350" height="802" frameX="0" frameY="-836" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0019" x="1350" y="5254" width="1349" height="802" frameX="-1" frameY="-836" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="fuckedfinalbossENTER!0020" x="0" y="5254" width="1350" height="802" frameX="0" frameY="-836" frameWidth="1354" frameHeight="1686"/>
+	<SubTexture name="robotHIT!0000" x="2699" y="5254" width="1451" height="994" frameX="-162" frameY="-34" frameWidth="1642" frameHeight="1071"/>
+	<SubTexture name="robotHIT!0001" x="4150" y="5254" width="1612" height="1058" frameX="-29" frameY="-2" frameWidth="1642" frameHeight="1071"/>
+	<SubTexture name="robotHIT!0002" x="5762" y="5254" width="1613" height="1059" frameX="-29" frameY="-2" frameWidth="1642" frameHeight="1071"/>
+	<SubTexture name="robotHIT!0003" x="0" y="6313" width="1620" height="1071" frameX="0" frameY="0" frameWidth="1642" frameHeight="1071"/>
+	<SubTexture name="robotHIT!0004" x="1620" y="6313" width="1292" height="831" frameX="-328" frameY="-240" frameWidth="1642" frameHeight="1071"/>
+	<SubTexture name="robotHIT!0005" x="2912" y="6313" width="1260" height="819" frameX="-337" frameY="-240" frameWidth="1642" frameHeight="1071"/>
+	<SubTexture name="robotHIT!0006" x="4172" y="6313" width="1260" height="819" frameX="-337" frameY="-240" frameWidth="1642" frameHeight="1071"/>
+	<SubTexture name="robotHIT!0007" x="5432" y="6313" width="1241" height="814" frameX="-342" frameY="-240" frameWidth="1642" frameHeight="1071"/>
+	<SubTexture name="robotHIT!0008" x="6673" y="6313" width="1242" height="814" frameX="-342" frameY="-240" frameWidth="1642" frameHeight="1071"/>
+</TextureAtlas>

@@ -1,0 +1,73 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"name": "RoboFeverIDLE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"name": "RoboFeverRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"name": "RoboFeverDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"name": "RoboFeverLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"name": "RoboFeverUP"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/robopixel",
+	"position": [
+		-15,
+		225
+	],
+	"healthicon": "robofever-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		146,
+		54,
+		180
+	],
+	"camera_position": [
+		-287,
+		-337
+	],
+	"sing_duration": 6.1,
+	"scale": 6
+}

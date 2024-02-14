@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"hookToSongSpeed": false,
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "robo idle"
+		},
+		{
+			"hookToSongSpeed": false,
+			"loop": false,
+			"offsets": [
+				82,
+				-79
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "robo down"
+		},
+		{
+			"hookToSongSpeed": false,
+			"loop": false,
+			"offsets": [
+				14,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "robo right"
+		},
+		{
+			"hookToSongSpeed": false,
+			"loop": false,
+			"offsets": [
+				31,
+				45
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "robo up"
+		},
+		{
+			"hookToSongSpeed": false,
+			"loop": false,
+			"offsets": [
+				96,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "robo left"
+		},
+		{
+			"hookToSongSpeed": false,
+			"loop": false,
+			"offsets": [
+				15,
+				2
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "robo hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/robo_fever_assets",
+	"position": [
+		0,
+		0
+	],
+	"hasVictory": true,
+	"healthicon": "robo-cesar",
+	"flip_x": false,
+	"healthbar_colors": [
+		146,
+		54,
+		180
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"noteSkin": "notes/ROBO-NOTE_assets",
+	"sing_duration": 6.1,
+	"scale": 1
+}

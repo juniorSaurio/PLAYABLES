@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SnowIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SnowLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SnowDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				33
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SnowUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SnowRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Snow-Assets",
+	"position": [
+		50,
+		120
+	],
+	"healthicon": "snow",
+	"flip_x": false,
+	"healthbar_colors": [
+		247,
+		163,
+		149
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

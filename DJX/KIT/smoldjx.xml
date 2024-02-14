@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="smoldjx.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SMOL DOWN0000" x="0" y="0" width="462" height="454" frameX="0" frameY="-16" frameWidth="462" frameHeight="470"/>
+	<SubTexture name="SMOL DOWN0001" x="0" y="0" width="462" height="454" frameX="0" frameY="-16" frameWidth="462" frameHeight="470"/>
+	<SubTexture name="SMOL DOWN0002" x="462" y="0" width="457" height="463" frameX="0" frameY="-2" frameWidth="462" frameHeight="470"/>
+	<SubTexture name="SMOL DOWN0003" x="462" y="0" width="457" height="463" frameX="0" frameY="-2" frameWidth="462" frameHeight="470"/>
+	<SubTexture name="SMOL DOWN0004" x="919" y="0" width="457" height="464" frameX="0" frameY="0" frameWidth="462" frameHeight="470"/>
+	<SubTexture name="SMOL DOWN0005" x="919" y="0" width="457" height="464" frameX="0" frameY="0" frameWidth="462" frameHeight="470"/>
+	<SubTexture name="SMOL DOWN0006" x="1376" y="0" width="457" height="463" frameX="0" frameY="-2" frameWidth="462" frameHeight="470"/>
+	<SubTexture name="SMOL DOWN0007" x="1376" y="0" width="457" height="463" frameX="0" frameY="-2" frameWidth="462" frameHeight="470"/>
+	<SubTexture name="SMOL IDLE0000" x="1833" y="0" width="449" height="515" frameX="0" frameY="-9" frameWidth="456" frameHeight="524"/>
+	<SubTexture name="SMOL IDLE0001" x="1833" y="0" width="449" height="515" frameX="0" frameY="-9" frameWidth="456" frameHeight="524"/>
+	<SubTexture name="SMOL IDLE0002" x="2282" y="0" width="451" height="508" frameX="-5" frameY="-15" frameWidth="456" frameHeight="524"/>
+	<SubTexture name="SMOL IDLE0003" x="2282" y="0" width="451" height="508" frameX="-5" frameY="-15" frameWidth="456" frameHeight="524"/>
+	<SubTexture name="SMOL IDLE0004" x="2733" y="0" width="447" height="515" frameX="-3" frameY="-8" frameWidth="456" frameHeight="524"/>
+	<SubTexture name="SMOL IDLE0005" x="2733" y="0" width="447" height="515" frameX="-3" frameY="-8" frameWidth="456" frameHeight="524"/>
+	<SubTexture name="SMOL IDLE0006" x="3180" y="0" width="447" height="516" frameX="0" frameY="-7" frameWidth="456" frameHeight="524"/>
+	<SubTexture name="SMOL IDLE0007" x="3180" y="0" width="447" height="516" frameX="0" frameY="-7" frameWidth="456" frameHeight="524"/>
+	<SubTexture name="SMOL IDLE0008" x="3627" y="0" width="447" height="516" frameX="0" frameY="-7" frameWidth="456" frameHeight="524"/>
+	<SubTexture name="SMOL IDLE0009" x="3627" y="0" width="447" height="516" frameX="0" frameY="-7" frameWidth="456" frameHeight="524"/>
+	<SubTexture name="SMOL IDLE0010" x="0" y="516" width="441" height="523" frameX="0" frameY="0" frameWidth="456" frameHeight="524"/>
+	<SubTexture name="SMOL IDLE0011" x="0" y="516" width="441" height="523" frameX="0" frameY="0" frameWidth="456" frameHeight="524"/>
+	<SubTexture name="smol left0000" x="441" y="516" width="519" height="521" frameX="0" frameY="-2" frameWidth="520" frameHeight="523"/>
+	<SubTexture name="smol left0001" x="441" y="516" width="519" height="521" frameX="0" frameY="-2" frameWidth="520" frameHeight="523"/>
+	<SubTexture name="smol left0002" x="960" y="516" width="507" height="523" frameX="-13" frameY="0" frameWidth="520" frameHeight="523"/>
+	<SubTexture name="smol left0003" x="960" y="516" width="507" height="523" frameX="-13" frameY="0" frameWidth="520" frameHeight="523"/>
+	<SubTexture name="smol left0004" x="1467" y="516" width="506" height="523" frameX="-14" frameY="0" frameWidth="520" frameHeight="523"/>
+	<SubTexture name="smol left0005" x="1467" y="516" width="506" height="523" frameX="-14" frameY="0" frameWidth="520" frameHeight="523"/>
+	<SubTexture name="smol left0006" x="1973" y="516" width="508" height="523" frameX="-12" frameY="0" frameWidth="520" frameHeight="523"/>
+	<SubTexture name="smol left0007" x="1973" y="516" width="508" height="523" frameX="-12" frameY="0" frameWidth="520" frameHeight="523"/>
+	<SubTexture name="smol right0000" x="2481" y="516" width="436" height="524" frameX="-33" frameY="-1" frameWidth="469" frameHeight="525"/>
+	<SubTexture name="smol right0001" x="2481" y="516" width="436" height="524" frameX="-33" frameY="-1" frameWidth="469" frameHeight="525"/>
+	<SubTexture name="smol right0002" x="2917" y="516" width="455" height="525" frameX="-4" frameY="0" frameWidth="469" frameHeight="525"/>
+	<SubTexture name="smol right0003" x="2917" y="516" width="455" height="525" frameX="-4" frameY="0" frameWidth="469" frameHeight="525"/>
+	<SubTexture name="smol right0004" x="3372" y="516" width="458" height="525" frameX="0" frameY="0" frameWidth="469" frameHeight="525"/>
+	<SubTexture name="smol right0005" x="3372" y="516" width="458" height="525" frameX="0" frameY="0" frameWidth="469" frameHeight="525"/>
+	<SubTexture name="smol right0006" x="0" y="1041" width="456" height="525" frameX="-3" frameY="0" frameWidth="469" frameHeight="525"/>
+	<SubTexture name="smol right0007" x="0" y="1041" width="456" height="525" frameX="-3" frameY="0" frameWidth="469" frameHeight="525"/>
+	<SubTexture name="smol up0000" x="456" y="1041" width="436" height="565" frameX="-13" frameY="0" frameWidth="449" frameHeight="565"/>
+	<SubTexture name="smol up0001" x="456" y="1041" width="436" height="565" frameX="-13" frameY="0" frameWidth="449" frameHeight="565"/>
+	<SubTexture name="smol up0002" x="892" y="1041" width="445" height="551" frameX="-3" frameY="-14" frameWidth="449" frameHeight="565"/>
+	<SubTexture name="smol up0003" x="892" y="1041" width="445" height="551" frameX="-3" frameY="-14" frameWidth="449" frameHeight="565"/>
+	<SubTexture name="smol up0004" x="1337" y="1041" width="448" height="548" frameX="0" frameY="-17" frameWidth="449" frameHeight="565"/>
+	<SubTexture name="smol up0005" x="1337" y="1041" width="448" height="548" frameX="0" frameY="-17" frameWidth="449" frameHeight="565"/>
+	<SubTexture name="smol up0006" x="1785" y="1041" width="447" height="549" frameX="-1" frameY="-16" frameWidth="449" frameHeight="565"/>
+	<SubTexture name="smol up0007" x="1785" y="1041" width="447" height="549" frameX="-1" frameY="-16" frameWidth="449" frameHeight="565"/>
+</TextureAtlas>

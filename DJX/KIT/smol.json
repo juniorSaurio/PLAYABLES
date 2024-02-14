@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				88,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "smol left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "smol right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				41
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "smol up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-81
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SMOL DOWN",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SMOL IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/smoldjx",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "smol",
+	"flip_x": false,
+	"healthbar_colors": [
+		247,
+		98,
+		123
+	],
+	"camera_position": [
+		90,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

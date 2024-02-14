@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="excitlex.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alt der 0000" x="0" y="0" width="578" height="669"/>
+	<SubTexture name="alt der 0001" x="0" y="0" width="578" height="669"/>
+	<SubTexture name="alt der 0002" x="578" y="0" width="578" height="669"/>
+	<SubTexture name="alt der 0003" x="578" y="0" width="578" height="669"/>
+	<SubTexture name="alt der 0004" x="578" y="0" width="578" height="669"/>
+	<SubTexture name="alt der 0005" x="578" y="0" width="578" height="669"/>
+	<SubTexture name="alt der 0006" x="578" y="0" width="578" height="669"/>
+	<SubTexture name="alt der 0007" x="578" y="0" width="578" height="669"/>
+	<SubTexture name="alt der 0008" x="578" y="0" width="578" height="669"/>
+	<SubTexture name="alt der 0009" x="578" y="0" width="578" height="669"/>
+	<SubTexture name="alt der 0010" x="578" y="0" width="578" height="669"/>
+	<SubTexture name="alt der 0011" x="578" y="0" width="578" height="669"/>
+	<SubTexture name="alt down 0000" x="1156" y="0" width="643" height="529"/>
+	<SubTexture name="alt down 0001" x="1156" y="0" width="643" height="529"/>
+	<SubTexture name="alt down 0002" x="1799" y="0" width="643" height="529"/>
+	<SubTexture name="alt down 0003" x="1799" y="0" width="643" height="529"/>
+	<SubTexture name="alt down 0004" x="1799" y="0" width="643" height="529"/>
+	<SubTexture name="alt down 0005" x="1799" y="0" width="643" height="529"/>
+	<SubTexture name="alt down 0006" x="1799" y="0" width="643" height="529"/>
+	<SubTexture name="alt down 0007" x="1799" y="0" width="643" height="529"/>
+	<SubTexture name="alt down 0008" x="1799" y="0" width="643" height="529"/>
+	<SubTexture name="alt down 0009" x="1799" y="0" width="643" height="529"/>
+	<SubTexture name="alt down 0010" x="1799" y="0" width="643" height="529"/>
+	<SubTexture name="alt down 0011" x="1799" y="0" width="643" height="529"/>
+	<SubTexture name="alt izq 0000" x="2442" y="0" width="599" height="696"/>
+	<SubTexture name="alt izq 0001" x="2442" y="0" width="599" height="696"/>
+	<SubTexture name="alt izq 0002" x="3041" y="0" width="599" height="696"/>
+	<SubTexture name="alt izq 0003" x="3041" y="0" width="599" height="696"/>
+	<SubTexture name="alt izq 0004" x="3041" y="0" width="599" height="696"/>
+	<SubTexture name="alt izq 0005" x="3041" y="0" width="599" height="696"/>
+	<SubTexture name="alt izq 0006" x="3041" y="0" width="599" height="696"/>
+	<SubTexture name="alt izq 0007" x="3041" y="0" width="599" height="696"/>
+	<SubTexture name="alt izq 0008" x="3041" y="0" width="599" height="696"/>
+	<SubTexture name="alt izq 0009" x="3041" y="0" width="599" height="696"/>
+	<SubTexture name="alt izq 0010" x="3041" y="0" width="599" height="696"/>
+	<SubTexture name="alt izq 0011" x="3041" y="0" width="599" height="696"/>
+	<SubTexture name="altlex idle 0000" x="3640" y="0" width="627" height="683"/>
+	<SubTexture name="altlex idle 0001" x="3640" y="0" width="627" height="683"/>
+	<SubTexture name="altlex idle 0002" x="4267" y="0" width="627" height="683"/>
+	<SubTexture name="altlex idle 0003" x="4267" y="0" width="627" height="683"/>
+	<SubTexture name="altlex idle 0004" x="4894" y="0" width="627" height="683"/>
+	<SubTexture name="altlex idle 0005" x="4894" y="0" width="627" height="683"/>
+	<SubTexture name="altlex idle 0006" x="5521" y="0" width="627" height="683"/>
+	<SubTexture name="altlex idle 0007" x="5521" y="0" width="627" height="683"/>
+	<SubTexture name="altlex idle 0008" x="6148" y="0" width="627" height="683"/>
+	<SubTexture name="altlex idle 0009" x="6148" y="0" width="627" height="683"/>
+	<SubTexture name="altlex idle 0010" x="6148" y="0" width="627" height="683"/>
+	<SubTexture name="altlex idle 0011" x="6775" y="0" width="627" height="683"/>
+	<SubTexture name="altlex idle 0012" x="7402" y="0" width="627" height="683"/>
+	<SubTexture name="altlex idle 0013" x="7402" y="0" width="627" height="683"/>
+	<SubTexture name="altlex idle 0014" x="0" y="696" width="627" height="683"/>
+	<SubTexture name="altlex idle 0015" x="0" y="696" width="627" height="683"/>
+	<SubTexture name="altlex idle 0016" x="627" y="696" width="627" height="683"/>
+	<SubTexture name="altlex idle 0017" x="627" y="696" width="627" height="683"/>
+	<SubTexture name="altlex idle 0018" x="1254" y="696" width="627" height="683"/>
+	<SubTexture name="altlex idle 0019" x="1254" y="696" width="627" height="683"/>
+	<SubTexture name="altlex idle 0020" x="1881" y="696" width="627" height="683"/>
+	<SubTexture name="altlex idle 0021" x="1881" y="696" width="627" height="683"/>
+	<SubTexture name="altlex idle 0022" x="1881" y="696" width="627" height="683"/>
+	<SubTexture name="altlex up 0000" x="2508" y="696" width="483" height="722"/>
+	<SubTexture name="altlex up 0001" x="2508" y="696" width="483" height="722"/>
+	<SubTexture name="altlex up 0002" x="2991" y="696" width="483" height="722"/>
+	<SubTexture name="altlex up 0003" x="2991" y="696" width="483" height="722"/>
+	<SubTexture name="altlex up 0004" x="2991" y="696" width="483" height="722"/>
+	<SubTexture name="altlex up 0005" x="2991" y="696" width="483" height="722"/>
+	<SubTexture name="altlex up 0006" x="2991" y="696" width="483" height="722"/>
+	<SubTexture name="altlex up 0007" x="2991" y="696" width="483" height="722"/>
+	<SubTexture name="altlex up 0008" x="2991" y="696" width="483" height="722"/>
+	<SubTexture name="altlex up 0009" x="2991" y="696" width="483" height="722"/>
+	<SubTexture name="altlex up 0010" x="2991" y="696" width="483" height="722"/>
+	<SubTexture name="altlex up 0011" x="2991" y="696" width="483" height="722"/>
+	<SubTexture name="taunt 0000" x="3474" y="696" width="1019" height="1040"/>
+	<SubTexture name="taunt 0001" x="4493" y="696" width="1019" height="1040"/>
+	<SubTexture name="taunt 0002" x="5512" y="696" width="1019" height="1040"/>
+	<SubTexture name="taunt 0003" x="6531" y="696" width="1019" height="1040"/>
+	<SubTexture name="taunt 0004" x="0" y="1736" width="1019" height="1040"/>
+	<SubTexture name="taunt 0005" x="1019" y="1736" width="1019" height="1040"/>
+	<SubTexture name="taunt 0006" x="2038" y="1736" width="1019" height="1040"/>
+	<SubTexture name="taunt 0007" x="3057" y="1736" width="1019" height="1040"/>
+	<SubTexture name="taunt 0008" x="4076" y="1736" width="1019" height="1040"/>
+	<SubTexture name="taunt 0009" x="5095" y="1736" width="1019" height="1040"/>
+	<SubTexture name="taunt 0010" x="3057" y="1736" width="1019" height="1040"/>
+	<SubTexture name="taunt 0011" x="1019" y="1736" width="1019" height="1040"/>
+	<SubTexture name="taunt 0012" x="5095" y="1736" width="1019" height="1040"/>
+</TextureAtlas>

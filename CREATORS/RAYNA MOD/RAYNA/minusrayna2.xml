@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="minusrayna.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Raynaalt0000" x="0" y="0" width="310" height="527"/>
+	<SubTexture name="Raynaalt0001" x="0" y="0" width="310" height="527"/>
+	<SubTexture name="Raynaalt0002" x="310" y="0" width="310" height="527"/>
+	<SubTexture name="Raynaalt0003" x="0" y="0" width="310" height="527"/>
+	<SubTexture name="down miss 0000" x="620" y="0" width="309" height="492" frameX="-2" frameY="-24" frameWidth="313" frameHeight="516"/>
+	<SubTexture name="down miss 0001" x="929" y="0" width="294" height="515" frameX="-10" frameY="0" frameWidth="313" frameHeight="516"/>
+	<SubTexture name="down miss 0002" x="929" y="0" width="294" height="515" frameX="-10" frameY="0" frameWidth="313" frameHeight="516"/>
+	<SubTexture name="down miss 0003" x="1223" y="0" width="313" height="491" frameX="0" frameY="-24" frameWidth="313" frameHeight="516"/>
+	<SubTexture name="down miss 0004" x="1536" y="0" width="313" height="491" frameX="0" frameY="-24" frameWidth="313" frameHeight="516"/>
+	<SubTexture name="down miss 0005" x="1849" y="0" width="313" height="487" frameX="0" frameY="-28" frameWidth="313" frameHeight="516"/>
+	<SubTexture name="down miss 0006" x="2162" y="0" width="313" height="487" frameX="0" frameY="-28" frameWidth="313" frameHeight="516"/>
+	<SubTexture name="down miss 0007" x="1849" y="0" width="313" height="487" frameX="0" frameY="-28" frameWidth="313" frameHeight="516"/>
+	<SubTexture name="down miss 0008" x="1849" y="0" width="313" height="487" frameX="0" frameY="-28" frameWidth="313" frameHeight="516"/>
+	<SubTexture name="down miss 0009" x="2162" y="0" width="313" height="487" frameX="0" frameY="-28" frameWidth="313" frameHeight="516"/>
+	<SubTexture name="down miss 0010" x="1849" y="0" width="313" height="487" frameX="0" frameY="-28" frameWidth="313" frameHeight="516"/>
+	<SubTexture name="down miss 0011" x="1849" y="0" width="313" height="487" frameX="0" frameY="-28" frameWidth="313" frameHeight="516"/>
+	<SubTexture name="down miss 0012" x="2162" y="0" width="313" height="487" frameX="0" frameY="-28" frameWidth="313" frameHeight="516"/>
+	<SubTexture name="down miss 0013" x="1849" y="0" width="313" height="487" frameX="0" frameY="-28" frameWidth="313" frameHeight="516"/>
+	<SubTexture name="raina up0000" x="2475" y="0" width="378" height="541" frameX="0" frameY="0" frameWidth="387" frameHeight="541"/>
+	<SubTexture name="raina up0001" x="2475" y="0" width="378" height="541" frameX="0" frameY="0" frameWidth="387" frameHeight="541"/>
+	<SubTexture name="raina up0002" x="2853" y="0" width="387" height="533" frameX="0" frameY="-8" frameWidth="387" frameHeight="541"/>
+	<SubTexture name="raina up0003" x="2853" y="0" width="387" height="533" frameX="0" frameY="-8" frameWidth="387" frameHeight="541"/>
+	<SubTexture name="raina up0004" x="3240" y="0" width="387" height="534" frameX="0" frameY="-7" frameWidth="387" frameHeight="541"/>
+	<SubTexture name="raina up0005" x="3240" y="0" width="387" height="534" frameX="0" frameY="-7" frameWidth="387" frameHeight="541"/>
+	<SubTexture name="raina up0006" x="3627" y="0" width="387" height="535" frameX="0" frameY="-6" frameWidth="387" frameHeight="541"/>
+	<SubTexture name="raina up0007" x="3627" y="0" width="387" height="535" frameX="0" frameY="-6" frameWidth="387" frameHeight="541"/>
+	<SubTexture name="rayna down0000" x="0" y="541" width="303" height="489" frameX="-2" frameY="-8" frameWidth="308" frameHeight="497"/>
+	<SubTexture name="rayna down0001" x="0" y="541" width="303" height="489" frameX="-2" frameY="-8" frameWidth="308" frameHeight="497"/>
+	<SubTexture name="rayna down0002" x="303" y="541" width="308" height="492" frameX="0" frameY="-5" frameWidth="308" frameHeight="497"/>
+	<SubTexture name="rayna down0003" x="303" y="541" width="308" height="492" frameX="0" frameY="-5" frameWidth="308" frameHeight="497"/>
+	<SubTexture name="rayna down0004" x="611" y="541" width="308" height="496" frameX="0" frameY="-1" frameWidth="308" frameHeight="497"/>
+	<SubTexture name="rayna down0005" x="611" y="541" width="308" height="496" frameX="0" frameY="-1" frameWidth="308" frameHeight="497"/>
+	<SubTexture name="rayna down0006" x="919" y="541" width="308" height="497"/>
+	<SubTexture name="rayna down0007" x="919" y="541" width="308" height="497"/>
+	<SubTexture name="rayna idle0000" x="1227" y="541" width="331" height="532" frameX="0" frameY="-2" frameWidth="331" frameHeight="534"/>
+	<SubTexture name="rayna idle0001" x="1227" y="541" width="331" height="532" frameX="0" frameY="-2" frameWidth="331" frameHeight="534"/>
+	<SubTexture name="rayna idle0002" x="1558" y="541" width="316" height="525" frameX="-12" frameY="-8" frameWidth="331" frameHeight="534"/>
+	<SubTexture name="rayna idle0003" x="1558" y="541" width="316" height="525" frameX="-12" frameY="-8" frameWidth="331" frameHeight="534"/>
+	<SubTexture name="rayna idle0004" x="1874" y="541" width="313" height="530" frameX="-15" frameY="-3" frameWidth="331" frameHeight="534"/>
+	<SubTexture name="rayna idle0005" x="1874" y="541" width="313" height="530" frameX="-15" frameY="-3" frameWidth="331" frameHeight="534"/>
+	<SubTexture name="rayna idle0006" x="2187" y="541" width="321" height="533" frameX="-8" frameY="0" frameWidth="331" frameHeight="534"/>
+	<SubTexture name="rayna idle0007" x="2187" y="541" width="321" height="533" frameX="-8" frameY="0" frameWidth="331" frameHeight="534"/>
+	<SubTexture name="rayna idle0008" x="2508" y="541" width="323" height="533" frameX="-6" frameY="0" frameWidth="331" frameHeight="534"/>
+	<SubTexture name="rayna idle0009" x="2508" y="541" width="323" height="533" frameX="-6" frameY="0" frameWidth="331" frameHeight="534"/>
+	<SubTexture name="rayna left0000" x="2831" y="541" width="301" height="506" frameX="0" frameY="-7" frameWidth="311" frameHeight="513"/>
+	<SubTexture name="rayna left0001" x="2831" y="541" width="301" height="506" frameX="0" frameY="-7" frameWidth="311" frameHeight="513"/>
+	<SubTexture name="rayna left0002" x="3132" y="541" width="307" height="513" frameX="-4" frameY="0" frameWidth="311" frameHeight="513"/>
+	<SubTexture name="rayna left0003" x="3132" y="541" width="307" height="513" frameX="-4" frameY="0" frameWidth="311" frameHeight="513"/>
+	<SubTexture name="rayna left0004" x="3439" y="541" width="307" height="509" frameX="-4" frameY="-4" frameWidth="311" frameHeight="513"/>
+	<SubTexture name="rayna left0005" x="3439" y="541" width="307" height="509" frameX="-4" frameY="-4" frameWidth="311" frameHeight="513"/>
+	<SubTexture name="rayna left0006" x="3746" y="541" width="307" height="507" frameX="-4" frameY="-6" frameWidth="311" frameHeight="513"/>
+	<SubTexture name="rayna left0007" x="3746" y="541" width="307" height="507" frameX="-4" frameY="-6" frameWidth="311" frameHeight="513"/>
+	<SubTexture name="rayna left miss0000" x="0" y="1074" width="308" height="513" frameX="-28" frameY="0" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="rayna left miss0001" x="308" y="1074" width="316" height="513" frameX="0" frameY="0" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="rayna left miss0002" x="308" y="1074" width="316" height="513" frameX="0" frameY="0" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="rayna left miss0003" x="624" y="1074" width="308" height="513" frameX="-28" frameY="0" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="rayna left miss0004" x="932" y="1074" width="308" height="513" frameX="-28" frameY="0" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="rayna left miss0005" x="1240" y="1074" width="307" height="513" frameX="-32" frameY="0" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="rayna left miss0006" x="1547" y="1074" width="307" height="513" frameX="-32" frameY="0" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="rayna left miss0007" x="1240" y="1074" width="307" height="513" frameX="-32" frameY="0" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="rayna left miss0008" x="1240" y="1074" width="307" height="513" frameX="-32" frameY="0" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="rayna left miss0009" x="1547" y="1074" width="307" height="513" frameX="-32" frameY="0" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="rayna left miss0010" x="1240" y="1074" width="307" height="513" frameX="-32" frameY="0" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="rayna left miss0011" x="1240" y="1074" width="307" height="513" frameX="-32" frameY="0" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="rayna left miss0012" x="1547" y="1074" width="307" height="513" frameX="-32" frameY="0" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="rayna left miss0013" x="1240" y="1074" width="307" height="513" frameX="-32" frameY="0" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="rayna right0000" x="1854" y="1074" width="370" height="504" frameX="-17" frameY="-10" frameWidth="387" frameHeight="515"/>
+	<SubTexture name="rayna right0001" x="1854" y="1074" width="370" height="504" frameX="-17" frameY="-10" frameWidth="387" frameHeight="515"/>
+	<SubTexture name="rayna right0002" x="2224" y="1074" width="369" height="515" frameX="0" frameY="0" frameWidth="387" frameHeight="515"/>
+	<SubTexture name="rayna right0003" x="2224" y="1074" width="369" height="515" frameX="0" frameY="0" frameWidth="387" frameHeight="515"/>
+	<SubTexture name="rayna right0004" x="2593" y="1074" width="369" height="511" frameX="0" frameY="-4" frameWidth="387" frameHeight="515"/>
+	<SubTexture name="rayna right0005" x="2593" y="1074" width="369" height="511" frameX="0" frameY="-4" frameWidth="387" frameHeight="515"/>
+	<SubTexture name="rayna right0006" x="2962" y="1074" width="369" height="510" frameX="0" frameY="-5" frameWidth="387" frameHeight="515"/>
+	<SubTexture name="rayna right0007" x="2962" y="1074" width="369" height="510" frameX="0" frameY="-5" frameWidth="387" frameHeight="515"/>
+	<SubTexture name="rayna right miss0000" x="3331" y="1074" width="370" height="515" frameX="-4" frameY="0" frameWidth="405" frameHeight="515"/>
+	<SubTexture name="rayna right miss0001" x="3701" y="1074" width="379" height="515" frameX="-26" frameY="0" frameWidth="405" frameHeight="515"/>
+	<SubTexture name="rayna right miss0002" x="3701" y="1074" width="379" height="515" frameX="-26" frameY="0" frameWidth="405" frameHeight="515"/>
+	<SubTexture name="rayna right miss0003" x="0" y="1589" width="369" height="515" frameX="-3" frameY="0" frameWidth="405" frameHeight="515"/>
+	<SubTexture name="rayna right miss0004" x="369" y="1589" width="369" height="515" frameX="-3" frameY="0" frameWidth="405" frameHeight="515"/>
+	<SubTexture name="rayna right miss0005" x="738" y="1589" width="369" height="515" frameX="0" frameY="0" frameWidth="405" frameHeight="515"/>
+	<SubTexture name="rayna right miss0006" x="1107" y="1589" width="369" height="515" frameX="0" frameY="0" frameWidth="405" frameHeight="515"/>
+	<SubTexture name="rayna right miss0007" x="738" y="1589" width="369" height="515" frameX="0" frameY="0" frameWidth="405" frameHeight="515"/>
+	<SubTexture name="rayna right miss0008" x="738" y="1589" width="369" height="515" frameX="0" frameY="0" frameWidth="405" frameHeight="515"/>
+	<SubTexture name="rayna right miss0009" x="1107" y="1589" width="369" height="515" frameX="0" frameY="0" frameWidth="405" frameHeight="515"/>
+	<SubTexture name="rayna right miss0010" x="738" y="1589" width="369" height="515" frameX="0" frameY="0" frameWidth="405" frameHeight="515"/>
+	<SubTexture name="rayna right miss0011" x="738" y="1589" width="369" height="515" frameX="0" frameY="0" frameWidth="405" frameHeight="515"/>
+	<SubTexture name="rayna right miss0012" x="1107" y="1589" width="369" height="515" frameX="0" frameY="0" frameWidth="405" frameHeight="515"/>
+	<SubTexture name="rayna right miss0013" x="738" y="1589" width="369" height="515" frameX="0" frameY="0" frameWidth="405" frameHeight="515"/>
+	<SubTexture name="up miss0000" x="1476" y="1589" width="387" height="533" frameX="-5" frameY="0" frameWidth="398" frameHeight="534"/>
+	<SubTexture name="up miss0001" x="1863" y="1589" width="398" height="502" frameX="0" frameY="-32" frameWidth="398" frameHeight="534"/>
+	<SubTexture name="up miss0002" x="1863" y="1589" width="398" height="502" frameX="0" frameY="-32" frameWidth="398" frameHeight="534"/>
+	<SubTexture name="up miss0003" x="2261" y="1589" width="384" height="528" frameX="-6" frameY="-6" frameWidth="398" frameHeight="534"/>
+	<SubTexture name="up miss0004" x="2645" y="1589" width="384" height="528" frameX="-6" frameY="-6" frameWidth="398" frameHeight="534"/>
+	<SubTexture name="up miss0005" x="3029" y="1589" width="381" height="532" frameX="-8" frameY="-2" frameWidth="398" frameHeight="534"/>
+	<SubTexture name="up miss0006" x="3410" y="1589" width="381" height="532" frameX="-8" frameY="-2" frameWidth="398" frameHeight="534"/>
+	<SubTexture name="up miss0007" x="3029" y="1589" width="381" height="532" frameX="-8" frameY="-2" frameWidth="398" frameHeight="534"/>
+	<SubTexture name="up miss0008" x="3029" y="1589" width="381" height="532" frameX="-8" frameY="-2" frameWidth="398" frameHeight="534"/>
+	<SubTexture name="up miss0009" x="3410" y="1589" width="381" height="532" frameX="-8" frameY="-2" frameWidth="398" frameHeight="534"/>
+	<SubTexture name="up miss0010" x="3029" y="1589" width="381" height="532" frameX="-8" frameY="-2" frameWidth="398" frameHeight="534"/>
+	<SubTexture name="up miss0011" x="3029" y="1589" width="381" height="532" frameX="-8" frameY="-2" frameWidth="398" frameHeight="534"/>
+	<SubTexture name="up miss0012" x="3410" y="1589" width="381" height="532" frameX="-8" frameY="-2" frameWidth="398" frameHeight="534"/>
+	<SubTexture name="up miss0013" x="3029" y="1589" width="381" height="532" frameX="-8" frameY="-2" frameWidth="398" frameHeight="534"/>
+</TextureAtlas>

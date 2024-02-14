@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "taki idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "taki left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-219,
+				-19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "taki right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				72
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "taki up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				-79
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "taki down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				123,
+				84
+			],
+			"indices": [],
+			"fps": 34,
+			"anim": "laugh",
+			"loop": false,
+			"name": "taki laugh"
+		},
+		{
+			"offsets": [
+				123,
+				84
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "laugh1",
+			"loop": false,
+			"name": "taki laugh"
+		},
+		{
+			"offsets": [
+				123,
+				84
+			],
+			"indices": [16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86],
+			"fps": 30,
+			"anim": "laugh0",
+			"loop": false,
+			"name": "taki laugh"
+		},
+		{
+			"offsets": [
+				-126,
+				-111
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "talk",
+			"loop": false,
+			"name": "taki talk"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/taki",
+	"position": [
+		-460,
+		-580
+	],
+	"healthicon": "taki",
+	"flip_x": false,
+	"healthbar_colors": [
+		211,
+		68,
+		112
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

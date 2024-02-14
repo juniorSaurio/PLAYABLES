@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sachiko idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				45,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SachikoLeft"
+		},
+		{
+			"offsets": [
+				22,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SachikoDown"
+		},
+		{
+			"offsets": [
+				-11,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SachikoUp"
+		},
+		{
+			"offsets": [
+				-20,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SachikoRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				20
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "SachRightA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				57
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "SachUpA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				15
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "SachLeftA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				18
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "SachiRightM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				12
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "SachiLeftM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-20
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "SachiDownM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				17
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "SachiUpM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				-45
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "SachDownA",
+			"indices": []
+		},
+		{
+			"offsets": [
+				160,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "SachikoDeath"
+		},
+		{
+			"offsets": [
+				160,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "SachiDeathLOOP"
+		},
+		{
+			"offsets": [
+				160,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "SachDeathCONF"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sachiko_assets",
+	"position": [
+		10,
+		180
+	],
+	"healthicon": "sach",
+	"flip_x": true,
+	"healthbar_colors": [
+		30,
+		28,
+		33
+	],
+	"camera_position": [
+		90,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="remastered-dave.png"><SubTexture name="remastered-dave idle0000" x="0" y="0" width="826" height="666" frameX="0" frameY="0" frameWidth="826" frameHeight="666" />
+<SubTexture name="remastered-dave idle0001" x="826" y="0" width="826" height="666" frameX="0" frameY="0" frameWidth="826" frameHeight="666" />
+<SubTexture name="remastered-dave idle0002" x="1652" y="0" width="826" height="666" frameX="0" frameY="0" frameWidth="826" frameHeight="666" />
+<SubTexture name="remastered-dave idle0003" x="2478" y="0" width="826" height="666" frameX="0" frameY="0" frameWidth="826" frameHeight="666" />
+<SubTexture name="remastered-dave idle0004" x="0" y="666" width="826" height="666" frameX="0" frameY="0" frameWidth="826" frameHeight="666" />
+<SubTexture name="remastered-dave left0000" x="826" y="666" width="826" height="666" frameX="0" frameY="0" frameWidth="826" frameHeight="666" />
+<SubTexture name="remastered-dave left0001" x="1652" y="666" width="826" height="666" frameX="0" frameY="0" frameWidth="826" frameHeight="666" />
+<SubTexture name="remastered-dave left0002" x="2478" y="666" width="826" height="666" frameX="0" frameY="0" frameWidth="826" frameHeight="666" />
+<SubTexture name="remastered-dave down0000" x="0" y="1332" width="826" height="666" frameX="0" frameY="0" frameWidth="826" frameHeight="666" />
+<SubTexture name="remastered-dave down0001" x="826" y="1332" width="826" height="666" frameX="0" frameY="0" frameWidth="826" frameHeight="666" />
+<SubTexture name="remastered-dave down0002" x="1652" y="1332" width="826" height="666" frameX="0" frameY="0" frameWidth="826" frameHeight="666" />
+<SubTexture name="remastered-dave up0000" x="2478" y="1332" width="826" height="666" frameX="0" frameY="0" frameWidth="826" frameHeight="666" />
+<SubTexture name="remastered-dave up0001" x="0" y="1998" width="826" height="666" frameX="0" frameY="0" frameWidth="826" frameHeight="666" />
+<SubTexture name="remastered-dave up0002" x="826" y="1998" width="826" height="666" frameX="0" frameY="0" frameWidth="826" frameHeight="666" />
+<SubTexture name="remastered-dave right0000" x="1652" y="1998" width="826" height="666" frameX="0" frameY="0" frameWidth="826" frameHeight="666" />
+<SubTexture name="remastered-dave right0001" x="2478" y="1998" width="826" height="666" frameX="0" frameY="0" frameWidth="826" frameHeight="666" />
+<SubTexture name="remastered-dave right0002" x="0" y="2664" width="826" height="666" frameX="0" frameY="0" frameWidth="826" frameHeight="666" />
+</TextureAtlas>

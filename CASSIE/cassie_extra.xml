@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cassie_extra.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cassie line0000" x="0" y="0" width="302" height="2278" pivotX="25.75" pivotY="-40.9"/>
+	<SubTexture name="cassie line0001" x="0" y="0" width="302" height="2278"/>
+	<SubTexture name="cassie line0002" x="305" y="0" width="295" height="2273" frameX="-4" frameY="-2" frameWidth="302" frameHeight="2278"/>
+	<SubTexture name="cassie line0003" x="305" y="0" width="295" height="2273" frameX="-4" frameY="-2" frameWidth="302" frameHeight="2278"/>
+	<SubTexture name="cassie line0004" x="603" y="0" width="284" height="2258" frameX="-9" frameY="0" frameWidth="302" frameHeight="2278"/>
+	<SubTexture name="cassie line0005" x="603" y="0" width="284" height="2258" frameX="-9" frameY="0" frameWidth="302" frameHeight="2278"/>
+	<SubTexture name="cassie line0006" x="890" y="0" width="287" height="2270" frameX="-6" frameY="-2" frameWidth="302" frameHeight="2278"/>
+	<SubTexture name="cassie line0007" x="890" y="0" width="287" height="2270" frameX="-6" frameY="-2" frameWidth="302" frameHeight="2278"/>
+</TextureAtlas>

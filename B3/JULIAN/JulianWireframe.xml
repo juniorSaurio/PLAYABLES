@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="JulianWireframe.png">
+<SubTexture name="julain excited right0000" x="0" y="2298" width="597" height="723" frameX="-5" frameY="-18" frameWidth="602" frameHeight="741" />
+<SubTexture name="julain excited right0001" x="0" y="2298" width="597" height="723" frameX="-5" frameY="-17" frameWidth="602" frameHeight="741" />
+<SubTexture name="julain excited right0002" x="2910" y="1508" width="584" height="739" frameX="-11" frameY="-2" frameWidth="602" frameHeight="741" />
+<SubTexture name="julain excited right0003" x="2910" y="1508" width="584" height="739" frameX="-11" frameY="-2" frameWidth="602" frameHeight="741" />
+<SubTexture name="julian excited down0000" x="3519" y="0" width="926" height="608" frameX="0" frameY="0" frameWidth="927" frameHeight="608" />
+<SubTexture name="julian excited down0001" x="3519" y="0" width="926" height="608" frameX="0" frameY="0" frameWidth="927" frameHeight="608" />
+<SubTexture name="julian excited down0002" x="3519" y="608" width="912" height="603" frameX="-8" frameY="-4" frameWidth="927" frameHeight="608" />
+<SubTexture name="julian excited down0003" x="3519" y="608" width="912" height="603" frameX="-8" frameY="-4" frameWidth="927" frameHeight="608" />
+<SubTexture name="julian excited idle0000" x="579" y="1532" width="580" height="761" frameX="-34" frameY="-5" frameWidth="626" frameHeight="766" />
+<SubTexture name="julian excited idle0001" x="1159" y="1532" width="580" height="761" frameX="-34" frameY="-5" frameWidth="626" frameHeight="766" />
+<SubTexture name="julian excited idle0002" x="597" y="2298" width="626" height="717" frameX="0" frameY="-47" frameWidth="626" frameHeight="766" />
+<SubTexture name="julian excited idle0003" x="1223" y="2298" width="626" height="717" frameX="0" frameY="-47" frameWidth="626" frameHeight="766" />
+<SubTexture name="julian excited idle0004" x="2910" y="0" width="609" height="754" frameX="-8" frameY="-11" frameWidth="626" frameHeight="766" />
+<SubTexture name="julian excited idle0005" x="2910" y="754" width="609" height="754" frameX="-8" frameY="-11" frameWidth="626" frameHeight="766" />
+<SubTexture name="julian excited idle0006" x="0" y="0" width="600" height="766" frameX="-12" frameY="0" frameWidth="626" frameHeight="766" />
+<SubTexture name="julian excited idle0007" x="600" y="0" width="600" height="766" frameX="-12" frameY="0" frameWidth="626" frameHeight="766" />
+<SubTexture name="julian excited idle0008" x="1200" y="0" width="571" height="766" frameX="-37" frameY="0" frameWidth="626" frameHeight="766" />
+<SubTexture name="julian excited idle0009" x="0" y="766" width="571" height="766" frameX="-37" frameY="0" frameWidth="626" frameHeight="766" />
+<SubTexture name="julian excited idle0010" x="571" y="766" width="579" height="766" frameX="-29" frameY="0" frameWidth="626" frameHeight="766" />
+<SubTexture name="julian excited idle0011" x="1150" y="766" width="579" height="766" frameX="-29" frameY="0" frameWidth="626" frameHeight="766" />
+<SubTexture name="julian excited idle0012" x="1771" y="0" width="580" height="766" frameX="-29" frameY="0" frameWidth="626" frameHeight="766" />
+<SubTexture name="julian excited idle0013" x="1771" y="766" width="579" height="766" frameX="-29" frameY="0" frameWidth="626" frameHeight="766" />
+<SubTexture name="julian excited idle0014" x="0" y="1532" width="579" height="766" frameX="-29" frameY="0" frameWidth="626" frameHeight="766" />
+<SubTexture name="julian excited left0000" x="1739" y="1532" width="572" height="756" frameX="0" frameY="0" frameWidth="573" frameHeight="756" />
+<SubTexture name="julian excited left0001" x="1739" y="1532" width="572" height="756" frameX="0" frameY="0" frameWidth="573" frameHeight="756" />
+<SubTexture name="julian excited left0002" x="2351" y="0" width="559" height="755" frameX="-13" frameY="-1" frameWidth="573" frameHeight="756" />
+<SubTexture name="julian excited left0003" x="2351" y="0" width="559" height="755" frameX="-13" frameY="-1" frameWidth="573" frameHeight="756" />
+<SubTexture name="julian excited up0000" x="2519" y="2298" width="678" height="655" frameX="0" frameY="0" frameWidth="683" frameHeight="675" />
+<SubTexture name="julian excited up0001" x="2519" y="2298" width="678" height="655" frameX="0" frameY="0" frameWidth="683" frameHeight="675" />
+<SubTexture name="julian excited up0002" x="1849" y="2298" width="670" height="671" frameX="-13" frameY="-1" frameWidth="683" frameHeight="675" />
+<SubTexture name="julian excited up0003" x="1849" y="2298" width="670" height="671" frameX="-13" frameY="-1" frameWidth="683" frameHeight="675" />
+</TextureAtlas>

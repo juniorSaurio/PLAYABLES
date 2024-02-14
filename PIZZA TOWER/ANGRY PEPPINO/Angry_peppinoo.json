@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				-9
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MAD Right"
+		},
+		{
+			"offsets": [
+				42,
+				-3
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MAD Up"
+		},
+		{
+			"offsets": [
+				45,
+				-15
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MAD Left"
+		},
+		{
+			"offsets": [
+				4,
+				-10
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MAD Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-16
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "MAD Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				41,
+				-16
+			],
+			"anim": "idle-loop",
+			"fps": 16,
+			"name": "MAD Idle",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/MAD",
+	"position": [
+		210,
+		180
+	],
+	"healthicon": "peppino-angry",
+	"flip_x": false,
+	"healthbar_colors": [
+		224,
+		48,
+		0
+	],
+	"camera_position": [
+		-570,
+		-270
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

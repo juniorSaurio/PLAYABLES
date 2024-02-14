@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "JokeLEFT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-46,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "JokeDOWN0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				32
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "JokeUP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				-8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "JokeRIGHT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-69,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "THE GLOVE"
+		},
+		{
+			"offsets": [
+				849,
+				763
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Intro",
+			"indices": [],
+			"name": "Jokerflips0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "JokeIDLE0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Joker_P5F",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "joker",
+	"flip_x": true,
+	"healthbar_colors": [
+		215,
+		0,
+		80
+	],
+	"camera_position": [
+		0,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

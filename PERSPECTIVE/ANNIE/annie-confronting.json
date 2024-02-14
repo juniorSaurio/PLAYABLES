@@ -1,0 +1,145 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "annequid idle"
+		},
+		{
+			"offsets": [
+				41,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "annequid left"
+		},
+		{
+			"offsets": [
+				43,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "annequid right"
+		},
+		{
+			"offsets": [
+				52,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "anniequid down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				58
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "annequid up",
+			"indices": [
+				0,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"offsets": [
+				42,
+				18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "MAD LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-pissed",
+			"loop": false,
+			"name": "MAD IDLE"
+		},
+		{
+			"offsets": [
+				-24,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "MAD DOWN"
+		},
+		{
+			"offsets": [
+				4,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "MAD UP"
+		},
+		{
+			"offsets": [
+				57,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "MAD RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/annie_confronting",
+	"position": [
+		300,
+		0
+	],
+	"healthicon": "annie-huge",
+	"flip_x": true,
+	"healthbar_colors": [
+		61,
+		221,
+		221
+	],
+	"camera_position": [
+		0,
+		-170
+	],
+	"sing_duration": 8,
+	"scale": 1
+}

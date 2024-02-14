@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="djxwhity.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WHITNEY DOWN0000" x="0" y="0" width="909" height="812"/>
+	<SubTexture name="WHITNEY DOWN0001" x="0" y="0" width="909" height="812"/>
+	<SubTexture name="WHITNEY DOWN0002" x="909" y="0" width="907" height="807" frameX="-2" frameY="-5" frameWidth="909" frameHeight="812"/>
+	<SubTexture name="WHITNEY DOWN0003" x="909" y="0" width="907" height="807" frameX="-2" frameY="-5" frameWidth="909" frameHeight="812"/>
+	<SubTexture name="WHITNEY DOWN0004" x="1816" y="0" width="893" height="805" frameX="-16" frameY="-7" frameWidth="909" frameHeight="812"/>
+	<SubTexture name="WHITNEY DOWN0005" x="1816" y="0" width="893" height="805" frameX="-16" frameY="-7" frameWidth="909" frameHeight="812"/>
+	<SubTexture name="WHITNEY DOWN0006" x="2709" y="0" width="868" height="803" frameX="-41" frameY="-9" frameWidth="909" frameHeight="812"/>
+	<SubTexture name="WHITNEY DOWN0007" x="2709" y="0" width="868" height="803" frameX="-41" frameY="-9" frameWidth="909" frameHeight="812"/>
+	<SubTexture name="WHITNEY DOWN0008" x="3577" y="0" width="860" height="800" frameX="-49" frameY="-12" frameWidth="909" frameHeight="812"/>
+	<SubTexture name="WHITNEY DOWN0009" x="3577" y="0" width="860" height="800" frameX="-49" frameY="-12" frameWidth="909" frameHeight="812"/>
+	<SubTexture name="WHITNEY DOWN0010" x="4437" y="0" width="859" height="803" frameX="-50" frameY="-9" frameWidth="909" frameHeight="812"/>
+	<SubTexture name="WHITNEY DOWN0011" x="4437" y="0" width="859" height="803" frameX="-50" frameY="-9" frameWidth="909" frameHeight="812"/>
+	<SubTexture name="WHITNEY IDLE0000" x="5296" y="0" width="676" height="918" frameX="-10" frameY="-11" frameWidth="686" frameHeight="929"/>
+	<SubTexture name="WHITNEY IDLE0001" x="5296" y="0" width="676" height="918" frameX="-10" frameY="-11" frameWidth="686" frameHeight="929"/>
+	<SubTexture name="WHITNEY IDLE0002" x="5972" y="0" width="654" height="920" frameX="-30" frameY="-9" frameWidth="686" frameHeight="929"/>
+	<SubTexture name="WHITNEY IDLE0003" x="5972" y="0" width="654" height="920" frameX="-30" frameY="-9" frameWidth="686" frameHeight="929"/>
+	<SubTexture name="WHITNEY IDLE0004" x="6626" y="0" width="670" height="919" frameX="-13" frameY="-10" frameWidth="686" frameHeight="929"/>
+	<SubTexture name="WHITNEY IDLE0005" x="6626" y="0" width="670" height="919" frameX="-13" frameY="-10" frameWidth="686" frameHeight="929"/>
+	<SubTexture name="WHITNEY IDLE0006" x="7296" y="0" width="672" height="919" frameX="-10" frameY="-10" frameWidth="686" frameHeight="929"/>
+	<SubTexture name="WHITNEY IDLE0007" x="7296" y="0" width="672" height="919" frameX="-10" frameY="-10" frameWidth="686" frameHeight="929"/>
+	<SubTexture name="WHITNEY IDLE0008" x="0" y="920" width="673" height="919" frameX="-9" frameY="-10" frameWidth="686" frameHeight="929"/>
+	<SubTexture name="WHITNEY IDLE0009" x="0" y="920" width="673" height="919" frameX="-9" frameY="-10" frameWidth="686" frameHeight="929"/>
+	<SubTexture name="WHITNEY IDLE0010" x="673" y="920" width="678" height="927" frameX="0" frameY="0" frameWidth="686" frameHeight="929"/>
+	<SubTexture name="WHITNEY IDLE0011" x="673" y="920" width="678" height="927" frameX="0" frameY="0" frameWidth="686" frameHeight="929"/>
+	<SubTexture name="WHITNEY LEFT0000" x="1351" y="920" width="900" height="970" frameX="-1" frameY="-7" frameWidth="901" frameHeight="977"/>
+	<SubTexture name="WHITNEY LEFT0001" x="1351" y="920" width="900" height="970" frameX="-1" frameY="-7" frameWidth="901" frameHeight="977"/>
+	<SubTexture name="WHITNEY LEFT0002" x="2251" y="920" width="901" height="972" frameX="0" frameY="-5" frameWidth="901" frameHeight="977"/>
+	<SubTexture name="WHITNEY LEFT0003" x="3152" y="920" width="901" height="972" frameX="0" frameY="-5" frameWidth="901" frameHeight="977"/>
+	<SubTexture name="WHITNEY LEFT0004" x="4053" y="920" width="893" height="971" frameX="-8" frameY="-6" frameWidth="901" frameHeight="977"/>
+	<SubTexture name="WHITNEY LEFT0005" x="4053" y="920" width="893" height="971" frameX="-8" frameY="-6" frameWidth="901" frameHeight="977"/>
+	<SubTexture name="WHITNEY LEFT0006" x="4946" y="920" width="884" height="975" frameX="-17" frameY="-2" frameWidth="901" frameHeight="977"/>
+	<SubTexture name="WHITNEY LEFT0007" x="5830" y="920" width="884" height="975" frameX="-17" frameY="-2" frameWidth="901" frameHeight="977"/>
+	<SubTexture name="WHITNEY LEFT0008" x="6714" y="920" width="882" height="975" frameX="-19" frameY="-2" frameWidth="901" frameHeight="977"/>
+	<SubTexture name="WHITNEY LEFT0009" x="6714" y="920" width="882" height="975" frameX="-19" frameY="-2" frameWidth="901" frameHeight="977"/>
+	<SubTexture name="WHITNEY LEFT0010" x="0" y="1895" width="882" height="975" frameX="-19" frameY="-2" frameWidth="901" frameHeight="977"/>
+	<SubTexture name="WHITNEY LEFT0011" x="0" y="1895" width="882" height="975" frameX="-19" frameY="-2" frameWidth="901" frameHeight="977"/>
+	<SubTexture name="WHITNEY RIGHT0000" x="882" y="1895" width="851" height="929" frameX="0" frameY="-3" frameWidth="881" frameHeight="932"/>
+	<SubTexture name="WHITNEY RIGHT0001" x="882" y="1895" width="851" height="929" frameX="0" frameY="-3" frameWidth="881" frameHeight="932"/>
+	<SubTexture name="WHITNEY RIGHT0002" x="1733" y="1895" width="857" height="930" frameX="-5" frameY="-2" frameWidth="881" frameHeight="932"/>
+	<SubTexture name="WHITNEY RIGHT0003" x="1733" y="1895" width="857" height="930" frameX="-5" frameY="-2" frameWidth="881" frameHeight="932"/>
+	<SubTexture name="WHITNEY RIGHT0004" x="2590" y="1895" width="858" height="931" frameX="-19" frameY="-1" frameWidth="881" frameHeight="932"/>
+	<SubTexture name="WHITNEY RIGHT0005" x="2590" y="1895" width="858" height="931" frameX="-19" frameY="-1" frameWidth="881" frameHeight="932"/>
+	<SubTexture name="WHITNEY RIGHT0006" x="3448" y="1895" width="859" height="932" frameX="-22" frameY="0" frameWidth="881" frameHeight="932"/>
+	<SubTexture name="WHITNEY RIGHT0007" x="3448" y="1895" width="859" height="932" frameX="-22" frameY="0" frameWidth="881" frameHeight="932"/>
+	<SubTexture name="WHITNEY RIGHT0008" x="4307" y="1895" width="857" height="932" frameX="-21" frameY="0" frameWidth="881" frameHeight="932"/>
+	<SubTexture name="WHITNEY RIGHT0009" x="4307" y="1895" width="857" height="932" frameX="-21" frameY="0" frameWidth="881" frameHeight="932"/>
+	<SubTexture name="WHITNEY UP0000" x="5164" y="1895" width="660" height="985" frameX="-42" frameY="0" frameWidth="708" frameHeight="985"/>
+	<SubTexture name="WHITNEY UP0001" x="5164" y="1895" width="660" height="985" frameX="-42" frameY="0" frameWidth="708" frameHeight="985"/>
+	<SubTexture name="WHITNEY UP0002" x="5824" y="1895" width="664" height="983" frameX="-38" frameY="-1" frameWidth="708" frameHeight="985"/>
+	<SubTexture name="WHITNEY UP0003" x="5824" y="1895" width="664" height="983" frameX="-38" frameY="-1" frameWidth="708" frameHeight="985"/>
+	<SubTexture name="WHITNEY UP0004" x="6488" y="1895" width="691" height="965" frameX="-14" frameY="-19" frameWidth="708" frameHeight="985"/>
+	<SubTexture name="WHITNEY UP0005" x="6488" y="1895" width="691" height="965" frameX="-14" frameY="-19" frameWidth="708" frameHeight="985"/>
+	<SubTexture name="WHITNEY UP0006" x="7179" y="1895" width="702" height="963" frameX="-5" frameY="-21" frameWidth="708" frameHeight="985"/>
+	<SubTexture name="WHITNEY UP0007" x="7179" y="1895" width="702" height="963" frameX="-5" frameY="-21" frameWidth="708" frameHeight="985"/>
+	<SubTexture name="WHITNEY UP0008" x="0" y="2880" width="705" height="964" frameX="-3" frameY="-20" frameWidth="708" frameHeight="985"/>
+	<SubTexture name="WHITNEY UP0009" x="0" y="2880" width="705" height="964" frameX="-3" frameY="-20" frameWidth="708" frameHeight="985"/>
+	<SubTexture name="WHITNEY UP0010" x="705" y="2880" width="708" height="964" frameX="0" frameY="-20" frameWidth="708" frameHeight="985"/>
+	<SubTexture name="WHITNEY UP0011" x="705" y="2880" width="708" height="964" frameX="0" frameY="-20" frameWidth="708" frameHeight="985"/>
+</TextureAtlas>

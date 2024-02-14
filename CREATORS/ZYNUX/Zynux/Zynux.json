@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "zy idle"
+		},
+		{
+			"offsets": [
+				79,
+				-67
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				49,
+				-65
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				-16,
+				-135
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DOWN POSE"
+		},
+		{
+			"offsets": [
+				66,
+				-39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zynux_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "zynux",
+	"flip_x": false,
+	"healthbar_colors": [
+		97,
+		178,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

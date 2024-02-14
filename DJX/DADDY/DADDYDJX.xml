@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DADDYDJX.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DADDY DOWN0000" x="0" y="0" width="645" height="888" frameX="0" frameY="-22" frameWidth="652" frameHeight="910"/>
+	<SubTexture name="DADDY DOWN0001" x="0" y="0" width="645" height="888" frameX="0" frameY="-22" frameWidth="652" frameHeight="910"/>
+	<SubTexture name="DADDY DOWN0002" x="645" y="0" width="646" height="904" frameX="-4" frameY="-5" frameWidth="652" frameHeight="910"/>
+	<SubTexture name="DADDY DOWN0003" x="645" y="0" width="646" height="904" frameX="-4" frameY="-5" frameWidth="652" frameHeight="910"/>
+	<SubTexture name="DADDY DOWN0004" x="1291" y="0" width="647" height="910" frameX="-5" frameY="0" frameWidth="652" frameHeight="910"/>
+	<SubTexture name="DADDY DOWN0005" x="1291" y="0" width="647" height="910" frameX="-5" frameY="0" frameWidth="652" frameHeight="910"/>
+	<SubTexture name="DADDY DOWN0006" x="1938" y="0" width="647" height="904" frameX="-3" frameY="-6" frameWidth="652" frameHeight="910"/>
+	<SubTexture name="DADDY DOWN0007" x="1938" y="0" width="647" height="904" frameX="-3" frameY="-6" frameWidth="652" frameHeight="910"/>
+	<SubTexture name="DADDY LEFT0000" x="2585" y="0" width="665" height="916" frameX="0" frameY="-8" frameWidth="665" frameHeight="924"/>
+	<SubTexture name="DADDY LEFT0001" x="2585" y="0" width="665" height="916" frameX="0" frameY="-8" frameWidth="665" frameHeight="924"/>
+	<SubTexture name="DADDY LEFT0002" x="3250" y="0" width="630" height="922" frameX="-1" frameY="-2" frameWidth="665" frameHeight="924"/>
+	<SubTexture name="DADDY LEFT0003" x="3250" y="0" width="630" height="922" frameX="-1" frameY="-2" frameWidth="665" frameHeight="924"/>
+	<SubTexture name="DADDY LEFT0004" x="0" y="922" width="618" height="924" frameX="-2" frameY="0" frameWidth="665" frameHeight="924"/>
+	<SubTexture name="DADDY LEFT0005" x="0" y="922" width="618" height="924" frameX="-2" frameY="0" frameWidth="665" frameHeight="924"/>
+	<SubTexture name="DADDY LEFT0006" x="618" y="922" width="625" height="923" frameX="0" frameY="-1" frameWidth="665" frameHeight="924"/>
+	<SubTexture name="DADDY LEFT0007" x="618" y="922" width="625" height="923" frameX="0" frameY="-1" frameWidth="665" frameHeight="924"/>
+	<SubTexture name="DADDY UP0000" x="1243" y="922" width="640" height="971" frameX="-7" frameY="0" frameWidth="647" frameHeight="973"/>
+	<SubTexture name="DADDY UP0001" x="1243" y="922" width="640" height="971" frameX="-7" frameY="0" frameWidth="647" frameHeight="973"/>
+	<SubTexture name="DADDY UP0002" x="1883" y="922" width="644" height="952" frameX="-2" frameY="-20" frameWidth="647" frameHeight="973"/>
+	<SubTexture name="DADDY UP0003" x="1883" y="922" width="644" height="952" frameX="-2" frameY="-20" frameWidth="647" frameHeight="973"/>
+	<SubTexture name="DADDY UP0004" x="2527" y="922" width="646" height="947" frameX="0" frameY="-26" frameWidth="647" frameHeight="973"/>
+	<SubTexture name="DADDY UP0005" x="2527" y="922" width="646" height="947" frameX="0" frameY="-26" frameWidth="647" frameHeight="973"/>
+	<SubTexture name="DADDY UP0006" x="3173" y="922" width="641" height="951" frameX="-3" frameY="-21" frameWidth="647" frameHeight="973"/>
+	<SubTexture name="DADDY UP0007" x="3173" y="922" width="641" height="951" frameX="-3" frameY="-21" frameWidth="647" frameHeight="973"/>
+	<SubTexture name="daddy idle0000" x="0" y="1893" width="674" height="918" frameX="0" frameY="-10" frameWidth="699" frameHeight="928"/>
+	<SubTexture name="daddy idle0001" x="0" y="1893" width="674" height="918" frameX="0" frameY="-10" frameWidth="699" frameHeight="928"/>
+	<SubTexture name="daddy idle0002" x="674" y="1893" width="695" height="921" frameX="-4" frameY="-7" frameWidth="699" frameHeight="928"/>
+	<SubTexture name="daddy idle0003" x="674" y="1893" width="695" height="921" frameX="-4" frameY="-7" frameWidth="699" frameHeight="928"/>
+	<SubTexture name="daddy idle0004" x="1369" y="1893" width="684" height="922" frameX="-6" frameY="-5" frameWidth="699" frameHeight="928"/>
+	<SubTexture name="daddy idle0005" x="1369" y="1893" width="684" height="922" frameX="-6" frameY="-5" frameWidth="699" frameHeight="928"/>
+	<SubTexture name="daddy idle0006" x="2053" y="1893" width="674" height="923" frameX="-8" frameY="-4" frameWidth="699" frameHeight="928"/>
+	<SubTexture name="daddy idle0007" x="2053" y="1893" width="674" height="923" frameX="-8" frameY="-4" frameWidth="699" frameHeight="928"/>
+	<SubTexture name="daddy idle0008" x="2727" y="1893" width="673" height="923" frameX="-8" frameY="-4" frameWidth="699" frameHeight="928"/>
+	<SubTexture name="daddy idle0009" x="2727" y="1893" width="673" height="923" frameX="-8" frameY="-4" frameWidth="699" frameHeight="928"/>
+	<SubTexture name="daddy idle0010" x="3400" y="1893" width="661" height="927" frameX="-11" frameY="0" frameWidth="699" frameHeight="928"/>
+	<SubTexture name="daddy idle0011" x="3400" y="1893" width="661" height="927" frameX="-11" frameY="0" frameWidth="699" frameHeight="928"/>
+	<SubTexture name="daddy right0000" x="0" y="2820" width="762" height="921"/>
+	<SubTexture name="daddy right0001" x="0" y="2820" width="762" height="921"/>
+	<SubTexture name="daddy right0002" x="762" y="2820" width="733" height="918" frameX="-14" frameY="-3" frameWidth="762" frameHeight="921"/>
+	<SubTexture name="daddy right0003" x="762" y="2820" width="733" height="918" frameX="-14" frameY="-3" frameWidth="762" frameHeight="921"/>
+	<SubTexture name="daddy right0004" x="1495" y="2820" width="725" height="918" frameX="-18" frameY="-3" frameWidth="762" frameHeight="921"/>
+	<SubTexture name="daddy right0005" x="1495" y="2820" width="725" height="918" frameX="-18" frameY="-3" frameWidth="762" frameHeight="921"/>
+	<SubTexture name="daddy right0006" x="2220" y="2820" width="731" height="918" frameX="-15" frameY="-3" frameWidth="762" frameHeight="921"/>
+	<SubTexture name="daddy right0007" x="2220" y="2820" width="731" height="918" frameX="-15" frameY="-3" frameWidth="762" frameHeight="921"/>
+</TextureAtlas>

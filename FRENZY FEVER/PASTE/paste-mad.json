@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "toothpaste mad idle"
+		},
+		{
+			"offsets": [
+				-250,
+				-100
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "toothpaste mad down"
+		},
+		{
+			"offsets": [
+				-198,
+				50
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "toothpaste mad left"
+		},
+		{
+			"offsets": [
+				-146,
+				229
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "toothpaste mad up"
+		},
+		{
+			"offsets": [
+				-100,
+				-24
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "toothpaste mad right"
+		},
+		{
+			"offsets": [
+				-144,
+				-2
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "angry",
+			"indices": [],
+			"name": "toothpaste mad scream"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				63
+			],
+			"anim": "smash",
+			"fps": 30,
+			"name": "toothpaste mad smash",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-50
+			],
+			"anim": "parry",
+			"fps": 24,
+			"name": "toothpaste mad parry",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pasteMad",
+	"position": [
+		-200,
+		-330
+	],
+	"healthicon": "toothpaste",
+	"flip_x": false,
+	"healthbar_colors": [
+		136,
+		233,
+		227
+	],
+	"camera_position": [
+		10,
+		370
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

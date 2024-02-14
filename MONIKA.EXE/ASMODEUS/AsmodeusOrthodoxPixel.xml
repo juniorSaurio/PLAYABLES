@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AsmodeusOrthodoxPixel.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MonPix Down0000" x="10" y="10" width="200" height="132"/>
+	<SubTexture name="MonPix Down0001" x="10" y="10" width="200" height="132"/>
+	<SubTexture name="MonPix Down0002" x="220" y="10" width="200" height="132"/>
+	<SubTexture name="MonPix Down0003" x="220" y="10" width="200" height="132"/>
+	<SubTexture name="MonPix Idle0000" x="430" y="10" width="200" height="132"/>
+	<SubTexture name="MonPix Idle0001" x="430" y="10" width="200" height="132"/>
+	<SubTexture name="MonPix Idle0002" x="640" y="10" width="200" height="132"/>
+	<SubTexture name="MonPix Idle0003" x="640" y="10" width="200" height="132"/>
+	<SubTexture name="MonPix Idle0004" x="10" y="152" width="200" height="132"/>
+	<SubTexture name="MonPix Idle0005" x="10" y="152" width="200" height="132"/>
+	<SubTexture name="MonPix Idle0006" x="220" y="152" width="200" height="132"/>
+	<SubTexture name="MonPix Idle0007" x="220" y="152" width="200" height="132"/>
+	<SubTexture name="MonPix Idle0008" x="430" y="152" width="200" height="132"/>
+	<SubTexture name="MonPix Idle0009" x="430" y="152" width="200" height="132"/>
+	<SubTexture name="MonPix Idle0010" x="430" y="152" width="200" height="132"/>
+	<SubTexture name="MonPix Idle0011" x="430" y="152" width="200" height="132"/>
+	<SubTexture name="MonPix Idle0012" x="430" y="152" width="200" height="132"/>
+	<SubTexture name="MonPix Idle0013" x="430" y="152" width="200" height="132"/>
+	<SubTexture name="MonPix Idle0014" x="430" y="152" width="200" height="132"/>
+	<SubTexture name="MonPix Idle0015" x="430" y="152" width="200" height="132"/>
+	<SubTexture name="MonPix Left0000" x="640" y="152" width="200" height="132"/>
+	<SubTexture name="MonPix Left0001" x="640" y="152" width="200" height="132"/>
+	<SubTexture name="MonPix Left0002" x="10" y="294" width="200" height="132"/>
+	<SubTexture name="MonPix Left0003" x="10" y="294" width="200" height="132"/>
+	<SubTexture name="MonPix Right0000" x="220" y="294" width="200" height="132"/>
+	<SubTexture name="MonPix Right0001" x="220" y="294" width="200" height="132"/>
+	<SubTexture name="MonPix Right0002" x="430" y="294" width="200" height="132"/>
+	<SubTexture name="MonPix Right0003" x="430" y="294" width="200" height="132"/>
+	<SubTexture name="MonPix Up0000" x="640" y="294" width="200" height="132"/>
+	<SubTexture name="MonPix Up0001" x="640" y="294" width="200" height="132"/>
+	<SubTexture name="MonPix Up0002" x="10" y="436" width="200" height="132"/>
+	<SubTexture name="MonPix Up0003" x="10" y="436" width="200" height="132"/>
+</TextureAtlas>
