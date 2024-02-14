@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-80
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				155,
+				0
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-80
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-112,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-94,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-94,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-80
+			],
+			"fps": 24,
+			"anim": "hitRIGHT",
+			"indices": [],
+			"name": "right-hit"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				155,
+				0
+			],
+			"fps": 24,
+			"anim": "hitUP",
+			"indices": [],
+			"name": "up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				-80
+			],
+			"fps": 24,
+			"anim": "hitLEFT",
+			"indices": [],
+			"name": "left-hit"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-70
+			],
+			"fps": 24,
+			"anim": "hitDOWN",
+			"indices": [],
+			"name": "down-hit"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/taki-monofrenzy",
+	"position": [
+		-160,
+		-50
+	],
+	"healthicon": "taki-monochr",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-320,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GoogleBF.png">
+<SubTexture name="GoogleBF Left0000" x="27" y="0" width="33" height="72" frameX="-181" frameY="-1117" frameWidth="2400" frameHeight="1280" />
+<SubTexture name="GoogleBF Up0000" x="0" y="0" width="27" height="76" frameX="-185" frameY="-1113" frameWidth="2400" frameHeight="1280" />
+<SubTexture name="GoogleBF Down0000" x="123" y="0" width="30" height="68" frameX="-184" frameY="-1121" frameWidth="2400" frameHeight="1280" />
+<SubTexture name="GoogleBF Idle0000" x="60" y="0" width="29" height="72" frameX="-184" frameY="-1117" frameWidth="2400" frameHeight="1280" />
+<SubTexture name="GoogleBF Idle0001" x="123" y="0" width="30" height="68" frameX="-184" frameY="-1121" frameWidth="2400" frameHeight="1280" />
+<SubTexture name="GoogleBF Right0000" x="89" y="0" width="34" height="69" frameX="-185" frameY="-1117" frameWidth="2400" frameHeight="1280" />
+</TextureAtlas>

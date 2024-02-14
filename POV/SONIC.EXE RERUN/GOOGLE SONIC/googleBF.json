@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 2,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GoogleBF Right"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 2,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GoogleBF Left"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 2,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GoogleBF Up"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 2,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GoogleBF Down"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 0,
+			"name": "GoogleBF Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GoogleBF",
+	"position": [
+		-525,
+		-300
+	],
+	"healthicon": "googleBF-icon",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		180,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 1.00000000000003,
+	"scale": 0.499999999999999
+}

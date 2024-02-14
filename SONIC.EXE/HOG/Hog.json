@@ -1,0 +1,159 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "HogIdle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				12,
+				13
+			],
+			"name": "HogIdle"
+		},
+		{
+			"offsets": [
+				125,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "HogLeft"
+		},
+		{
+			"offsets": [
+				74,
+				-54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "HogDown"
+		},
+		{
+			"offsets": [
+				45,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "HogUp"
+		},
+		{
+			"offsets": [
+				28,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "HogRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				167,
+				288
+			],
+			"anim": "watch this",
+			"fps": 24,
+			"name": "Getfucked",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				125,
+				-9
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "HogLeft",
+			"indices": [
+				8,
+				9
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				74,
+				-54
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "HogDown",
+			"indices": [
+				8,
+				9
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				46,
+				92
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "HogUp",
+			"indices": [
+				8,
+				9
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				28,
+				-8
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "HogRight",
+			"indices": [
+				8,
+				9
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hog",
+	"position": [
+		80,
+		380
+	],
+	"healthicon": "hoggers",
+	"flip_x": false,
+	"healthbar_colors": [
+		28,
+		45,
+		166
+	],
+	"camera_position": [
+		-390,
+		-190
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

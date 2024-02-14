@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-280,
+				-460
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sonic running idle"
+		},
+		{
+			"offsets": [
+				-280,
+				-460
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sonic running left0"
+		},
+		{
+			"offsets": [
+				-280,
+				-460
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sonic running down0"
+		},
+		{
+			"offsets": [
+				-280,
+				-460
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sonic running up0"
+		},
+		{
+			"offsets": [
+				-280,
+				-460
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sonic running right0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-280,
+				-460
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "sonic running left miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-280,
+				-460
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "sonic running right miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-280,
+				-460
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "sonic running up miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-280,
+				-460
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "sonic running down miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-280,
+				-460
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-talk",
+			"indices": [],
+			"name": "sonic running talking"
+		},
+		{
+			"offsets": [
+				-280,
+				-460
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "flip",
+			"indices": [],
+			"name": "sonic running flip"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-280,
+				-460
+			],
+			"anim": "damn",
+			"fps": 24,
+			"name": "sonic running damn",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-280,
+				-460
+			],
+			"anim": "idle-confused",
+			"fps": 24,
+			"name": "sonic running confused",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-280,
+				-460
+			],
+			"anim": "idle-look",
+			"fps": 24,
+			"name": "sonic running look on",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-230,
+				-460
+			],
+			"anim": "peel-out",
+			"fps": 16,
+			"name": "sonic running peel-out",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-280,
+				-490
+			],
+			"anim": "jump",
+			"fps": 17,
+			"name": "sonic running jump",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-280,
+				-460
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-hey red head",
+			"loop": true,
+			"name": "sonic running hey red head"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sonic running",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		108,
+		108,
+		216
+	],
+	"camera_position": [
+		100,
+		200
+	],
+	"sing_duration": 6,
+	"scale": 10
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Daisy Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-19
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Daisy Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Daisy Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Daisy right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				9,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Daisy left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DaisyFNF",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "daisy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		204,
+		204
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

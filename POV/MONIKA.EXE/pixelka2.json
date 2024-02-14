@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Monika_Idle"
+		},
+		{
+			"offsets": [
+				0,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Monika_singLEFTT"
+		},
+		{
+			"offsets": [
+				0,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Monika_singRIGHTT"
+		},
+		{
+			"offsets": [
+				6,
+				12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Monika_singUPP"
+		},
+		{
+			"offsets": [
+				0,
+				12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Monika_singDOWNN"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mpixel2",
+	"position": [
+		210,
+		250
+	],
+	"healthicon": "pixela",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-250,
+		-210
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

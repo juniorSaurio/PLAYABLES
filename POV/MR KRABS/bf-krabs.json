@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-350,
+				-330
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "Mister_KRABS idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-350,
+				-328
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "Mister_KRABS down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-352,
+				-320
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "Mister_KRABS left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-363,
+				-340
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "Mister_KRABS right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-350,
+				-330
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "Mister_KRABS up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Mister_KRABS",
+	"position": [
+		-590,
+		-500
+	],
+	"healthicon": "krabs",
+	"flip_x": true,
+	"healthbar_colors": [
+		248,
+		49,
+		92
+	],
+	"camera_position": [
+		30,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

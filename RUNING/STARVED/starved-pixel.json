@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "starved-pixel idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "starved-pixel left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "starved-pixel down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "starved-pixel up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "starved-pixel right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "starved-pixel cutscene one",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "flip",
+			"fps": 24,
+			"name": "starved-pixel flip",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"fps": 20,
+			"name": "starved-pixel talk",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "laught one",
+			"fps": 24,
+			"name": "starved-pixel laught one",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "laught two",
+			"fps": 24,
+			"name": "starved-pixel laught two",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "laught three",
+			"fps": 24,
+			"name": "starved-pixel laught three",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "laught loop",
+			"fps": 24,
+			"name": "starved-pixel loop laught",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/starved-pixel",
+	"position": [
+		700,
+		-130
+	],
+	"healthicon": "starved",
+	"flip_x": false,
+	"healthbar_colors": [
+		144,
+		0,
+		0
+	],
+	"camera_position": [
+		-500,
+		-250
+	],
+	"sing_duration": 6,
+	"scale": 10
+}

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mister_KRABS.png"><SubTexture name="Mister_KRABS idle0000" x="674" y="493" width="311" height="425" frameX="-355" frameY="-374" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Mister_KRABS idle0001" x="1205" y="0" width="311" height="425" frameX="-355" frameY="-374" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Mister_KRABS down0000" x="1516" y="729" width="458" height="345" frameX="-275" frameY="-409" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Mister_KRABS down0001" x="1516" y="373" width="467" height="356" frameX="-274" frameY="-399" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Mister_KRABS down0002" x="1516" y="0" width="471" height="373" frameX="-276" frameY="-383" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Mister_KRABS left0000" x="582" y="0" width="332" height="459" frameX="-318" frameY="-383" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Mister_KRABS left0001" x="0" y="493" width="337" height="446" frameX="-334" frameY="-379" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Mister_KRABS left0002" x="337" y="493" width="337" height="435" frameX="-346" frameY="-380" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Mister_KRABS right0000" x="818" y="939" width="426" height="396" frameX="-328" frameY="-384" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Mister_KRABS right0001" x="404" y="939" width="414" height="401" frameX="-337" frameY="-378" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Mister_KRABS right0002" x="0" y="939" width="404" height="403" frameX="-344" frameY="-376" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Mister_KRABS up0000" x="0" y="0" width="291" height="493" frameX="-365" frameY="-324" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Mister_KRABS up0001" x="291" y="0" width="291" height="472" frameX="-365" frameY="-341" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Mister_KRABS up0002" x="914" y="0" width="291" height="455" frameX="-365" frameY="-353" frameWidth="1000" frameHeight="900" />
+</TextureAtlas>

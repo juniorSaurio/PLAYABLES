@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				1
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "chris left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-157,
+				-50
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "chris down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				70
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "chris up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-1
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "chris right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "chris idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/povchris",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "chris2",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

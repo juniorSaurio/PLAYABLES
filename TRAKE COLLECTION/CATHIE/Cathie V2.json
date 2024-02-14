@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-88
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Down Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				30
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Up Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-27
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Right Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-32
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Left Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-95
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Tactie Downed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				-237
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Tactie Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				-11
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Tactie Revived",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-130
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Hey!",
+			"indices": []
+		},
+		{
+			"offsets": [
+				7,
+				-89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down0"
+		},
+		{
+			"offsets": [
+				-14,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up0"
+		},
+		{
+			"offsets": [
+				-11,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right0"
+		},
+		{
+			"offsets": [
+				28,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cathie V2",
+	"position": [
+		50,
+		195
+	],
+	"healthicon": "cathie",
+	"flip_x": true,
+	"healthbar_colors": [
+		220,
+		160,
+		115
+	],
+	"camera_position": [
+		120,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

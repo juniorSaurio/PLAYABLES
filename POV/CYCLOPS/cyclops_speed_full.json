@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				370,
+				110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-240
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				200
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				150,
+				20
+			],
+			"anim": "turn",
+			"fps": 24,
+			"name": "Turn",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				180
+			],
+			"anim": "turned",
+			"fps": 12,
+			"name": "Turned",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SPEED_FULL_ASS_SETS",
+	"position": [
+		-40,
+		30
+	],
+	"healthicon": "cyclops",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		0,
+		255
+	],
+	"camera_position": [
+		-260,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

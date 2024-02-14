@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				80
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "jerry idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				159,
+				84
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jerry LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				176,
+				93
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jerry RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				41
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Pico NOTE LEFT miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				64
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Pico Note Right Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				174,
+				87
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jerry UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				90
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jerry DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-28
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Pico Down Note MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				67
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pico Up note miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jerry-p1",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "mouse-p1",
+	"flip_x": false,
+	"healthbar_colors": [
+		163,
+		116,
+		85
+	],
+	"camera_position": [
+		-410,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

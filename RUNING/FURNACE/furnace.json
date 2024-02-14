@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Furnace idle"
+		},
+		{
+			"offsets": [
+				-30,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Furnace up"
+		},
+		{
+			"offsets": [
+				-43,
+				76
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Furnace down"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Furnace right"
+		},
+		{
+			"offsets": [
+				-69,
+				9
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Furnace left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/furnace_sheet",
+	"position": [
+		400,
+		150
+	],
+	"healthicon": "furnace",
+	"flip_x": false,
+	"healthbar_colors": [
+		78,
+		78,
+		78
+	],
+	"camera_position": [
+		-400,
+		-250
+	],
+	"sing_duration": 7,
+	"scale": 9.99999999999998
+}

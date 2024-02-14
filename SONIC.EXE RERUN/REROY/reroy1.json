@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				6,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				57
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-80
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/reroy/reroy1",
+	"position": [
+		20,
+		190
+	],
+	"healthicon": "icon-reroy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		160,
+		0
+	],
+	"camera_position": [
+		90,
+		210
+	],
+	"sing_duration": 4.00000000000004,
+	"scale": 0.599999999999999
+}

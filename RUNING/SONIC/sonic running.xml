@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sonic running.png">
+<SubTexture name="sonic running confused0000" x="0" y="0" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running confused0001" x="73" y="0" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running confused0002" x="146" y="0" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running confused0003" x="219" y="0" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running damn0000" x="292" y="0" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running damn0001" x="365" y="0" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running down miss0000" x="438" y="0" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running down0000" x="511" y="0" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running down0001" x="0" y="63" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running down0002" x="73" y="63" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running down0003" x="146" y="63" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running down0004" x="219" y="63" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running down0005" x="292" y="63" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running down0006" x="365" y="63" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running down0007" x="438" y="63" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running flip0000" x="511" y="63" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running flip0001" x="0" y="126" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running idle0000" x="73" y="126" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running idle0001" x="146" y="126" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running idle0002" x="219" y="126" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running idle0003" x="292" y="126" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running jump0000" x="365" y="126" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running jump0001" x="438" y="126" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running jump0002" x="511" y="126" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running jump0003" x="0" y="189" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running jump0004" x="73" y="189" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running jump0005" x="146" y="189" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running left miss0000" x="219" y="189" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running left0000" x="292" y="189" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running left0001" x="365" y="189" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running left0002" x="438" y="189" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running left0003" x="511" y="189" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running left0004" x="0" y="252" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running left0005" x="73" y="252" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running left0006" x="146" y="252" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running left0007" x="219" y="252" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running hey red head0000" x="292" y="252" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running hey red head0001" x="365" y="252" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running hey red head0002" x="438" y="252" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running hey red head0003" x="511" y="252" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running look on0000" x="0" y="315" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running look on0001" x="73" y="315" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running look on0002" x="146" y="315" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running look on0003" x="219" y="315" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running peel-out0000" x="292" y="315" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running peel-out0001" x="365" y="315" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running peel-out0002" x="438" y="315" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running peel-out0003" x="511" y="315" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running right miss0000" x="0" y="378" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running right0000" x="73" y="378" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running right0001" x="146" y="378" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running right0002" x="219" y="378" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running right0003" x="292" y="378" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running right0004" x="365" y="378" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running right0005" x="438" y="378" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running right0006" x="511" y="378" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running right0007" x="0" y="441" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running talking0000" x="73" y="441" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running talking0001" x="146" y="441" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running talking0002" x="219" y="441" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running talking0003" x="292" y="441" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running up miss0000" x="365" y="441" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running up0000" x="438" y="441" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running up0001" x="511" y="441" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running up0002" x="0" y="504" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running up0003" x="73" y="504" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running up0004" x="146" y="504" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running up0005" x="219" y="504" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running up0006" x="292" y="504" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+<SubTexture name="sonic running up0007" x="365" y="504" width="73" height="63" frameX="0" frameY="0" frameWidth="73" frameHeight="63" />
+</TextureAtlas>
